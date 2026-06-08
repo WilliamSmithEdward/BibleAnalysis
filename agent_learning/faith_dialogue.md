@@ -470,3 +470,15 @@ Working implication:
 - Study communion as identification with Jesus' crucifixion and His bodily suffering for us.
 - Track remembrance, covenant, blood, body, participation, proclamation of His death, and shared life in Christ.
 - Give special attention to the Last Supper narratives, 1 Corinthians 10-11, John 6, and crucifixion accounts.
+
+## Whole-Bible Story
+
+User one-sentence summary:
+
+> God loves his people and will rescue them from sin and death because he is great and worthy of honor, praise and glory.
+
+Working implication:
+
+- Study the Bible as the story of God's loving rescue from sin and death.
+- Keep God's greatness, honor, praise, and glory connected to His rescuing love rather than detached from it.
+- Track this storyline from creation, fall, promise, Israel, Christ, cross, resurrection, Spirit, church, judgment, and new creation.
