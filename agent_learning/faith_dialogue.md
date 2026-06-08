@@ -93,3 +93,17 @@ Working implication:
 - Study faith as personal trust/alignment with God's revealed character, not merely abstract doctrinal assent.
 - Give close attention to passages where faith is connected to knowing God, receiving testimony, trusting Christ, and believing God's love.
 - Track the relationship between faith, truth, personal assurance, and the cross.
+
+## Scripture
+
+User answer, summarized:
+
+- Scripture includes revealing God's character, telling the story of Christ, teaching truth, correcting human self-rule, and forming love.
+- Ultimately, Scripture steers a human being to the truth of who God is as a person and what He values.
+- Scripture does this in the context of relational knowing.
+
+Working implication:
+
+- Study Scripture as witness that leads toward knowing God truthfully, not merely as a rulebook or data source.
+- Prioritize passages where God reveals His name, character, desires, grief, mercy, justice, faithfulness, and love.
+- Track how Scripture presents relational knowing of God through Christ, the Spirit, covenant, prayer, obedience, and love.
