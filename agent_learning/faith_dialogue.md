@@ -138,3 +138,16 @@ Working implication:
 - Study passages where God's love is revealed in Christ, especially the cross.
 - Compare love with holiness, justice, truth, mercy, wrath, and judgment without treating them as contradictions inside God.
 - Give special attention to 1 John, John, Romans 5, 1 Corinthians 13, Ephesians, and the Gospels' portrayal of Jesus.
+
+## Justice
+
+User answer, summarized:
+
+- Justice is full alignment with the truth.
+- Justice brings any deception, distortion, or deviation into the full light of the truth.
+
+Working implication:
+
+- Study justice as revelation and truthful alignment, not only as penalty.
+- Track how Scripture connects judgment, light, truth, exposure, confession, righteousness, and restoration.
+- Give close attention to John 3, John 8, Romans, the prophets, Psalms, and Revelation.
