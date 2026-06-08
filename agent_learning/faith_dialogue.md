@@ -508,3 +508,16 @@ Working implication:
 - Give special attention to Joseph, Job, Elijah, the Psalms of lament, the exile, the disciples during the crucifixion, the road to Emmaus, Romans 8, and Hebrews.
 - Avoid forcing easy answers where Scripture makes room for grief, confusion, waiting, and honest prayer.
 - Look for patterns where God is working before people can perceive it clearly.
+
+## Needed In Chaos
+
+User answer:
+
+- When everything feels chaotic, the user most needs reassurance.
+- The user described this as "mega reassurance" and "massive amounts of security."
+
+Working implication:
+
+- Prioritize passages where God gives assurance, presence, safety, nearness, refuge, adoption, faithfulness, and peace.
+- Study reassurance without reducing it to shallow positivity.
+- Look for how Scripture speaks security to people who are afraid, disoriented, grieving, waiting, or unable to perceive God's work clearly.
