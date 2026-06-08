@@ -641,6 +641,20 @@ Working implication:
 - Track the experiential link between God's full knowledge and the user's sense of breath, hope, and non-catastrophe.
 - Distinguish "working out" from circumstances merely becoming easier; the emphasis is God's active presence and providence.
 
+## Noticing God Walking With The User
+
+User answer, summarized:
+
+- God has His ways of communicating with the user.
+- These ways are unique to the user's life and circumstances.
+- This is not something the user can easily describe on paper.
+
+Working implication:
+
+- Leave room for personally fitted communication from God without over-systematizing it.
+- Study discernment, providence, the Spirit's leading, peace, Scripture, conscience, wisdom, and circumstances.
+- Avoid reducing God's communication to a formula, while still testing impressions against the truth of God's character and Scripture.
+
 ## Servant Leadership
 
 User answer, summarized:
