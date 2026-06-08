@@ -704,6 +704,19 @@ Working implication:
 - Track biblical wisdom around self-control without collapsing into shame or rejecting good gifts.
 - Give special attention to freedom in Christ, stewardship, contentment, and receiving created goods with thanksgiving.
 
+## Healthy Balance
+
+User answer, summarized:
+
+- Healthy balance may not be easy to reduce to rules or guidelines.
+- The user trusts that God will let them know, help them discern, and give wisdom in all things.
+
+Working implication:
+
+- Study balance as Spirit-led wisdom rather than rigid rule-making.
+- Track Scripture's teaching on wisdom, discernment, conscience, freedom, dependence on God, and walking by the Spirit.
+- Give special attention to Proverbs, James, Galatians 5, Romans 14, Philippians 1, and Colossians 1.
+
 ## Servant Leadership
 
 User answer, summarized:
