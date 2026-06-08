@@ -262,3 +262,20 @@ Working implication:
 - Study eternal life as relational participation in God's life, not merely endless existence.
 - Give special attention to John 17:3, John, 1 John, resurrection passages, union with Christ, and new creation.
 - Track how Scripture connects knowing Jesus, resurrection, life, incorruptibility, and participation in God.
+
+## Death
+
+User answer, summarized:
+
+- Death is ultimately choosing self-determination and self-rule.
+- It is wanting to decide for oneself what is good and evil.
+- This causes a human soul to enter a state that, once it reaches its conclusion, is ultimately unrecoverable from God's perspective.
+- This grieves God deeply and profoundly.
+- To recover the soul at that point would require an override of free will.
+- Overriding free will is counter to everything God is.
+
+Working implication:
+
+- Study death as the outcome of autonomous self-rule, not merely biological cessation.
+- Track Scripture's relationship between death, sin, free will, hardening, grief, judgment, and separation from God.
+- Give special attention to Genesis 3, Romans 1, Romans 5-8, John, Ezekiel, the warnings of Jesus, and Revelation.
