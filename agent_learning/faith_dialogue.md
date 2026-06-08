@@ -221,3 +221,16 @@ Working implication:
 - Study sin at its root as autonomous moral definition apart from God, not merely isolated behavior.
 - Give special attention to Genesis 3 and the tree of the knowledge of good and evil.
 - Track how Scripture connects sin with deception, unbelief, death, law, self-rule, alienation, and false judgment.
+
+## Righteousness
+
+User answer, summarized:
+
+- Righteousness is believing that God is the source of all goodness.
+- There is no personal goodness outside of a direct, personal, intimate, living, and real-time relationship with Him.
+
+Working implication:
+
+- Study righteousness as relational dependence on God as the source of goodness.
+- Track the difference between received righteousness, self-righteousness, law-righteousness, and life in Christ.
+- Give special attention to Abraham's faith, Romans, Galatians, Philippians 3, and Jesus' conflicts with religious self-righteousness.
