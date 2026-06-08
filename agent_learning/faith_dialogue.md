@@ -627,6 +627,7 @@ User answer, summarized:
 - Good servant leadership means trying to keep many different dimensions in a healthy balance.
 - This balance should keep the humanity of both oneself and others central.
 - The user finds all of these difficult to keep central: their own humanity, other people's humanity, truth, boundaries, compassion, and responsibility.
+- When these leadership dimensions collide, the difficulty is usually a mix of over-carrying responsibility, losing clarity, people-pleasing, and being too hard on oneself.
 
 Working implication:
 
