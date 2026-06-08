@@ -392,3 +392,28 @@ Working implication:
 - Study prayer as direct relational communication with God.
 - Track how Scripture presents prayer through trust, honesty, lament, gratitude, asking, listening, and communion.
 - Give special attention to Jesus' prayers, the Psalms, the Lord's Prayer, John 17, and Paul's prayers.
+
+## Obedience
+
+User answer, summarized:
+
+- True obedience is found in believing the truth.
+- Obedience is alignment with the truth.
+
+User's own insight, described as a pure definition of religion:
+
+- If something is true, when faced with it, it should be accepted.
+- If something is false, when faced with it, it should be rejected.
+- If something is definitively neither true nor false, or is unknowable fully, it should be approached with wisdom, empathy, and kindness.
+
+Core foundational truth:
+
+- All humans were created in the image of God and are worthy of dignity, respect, and basic human rights.
+- Ideas, actions, and expressions of the human will are not always worthy of respect.
+- The acknowledgement of shared humanity always is worthy of respect.
+
+Working implication:
+
+- Study obedience as truthful alignment with God rather than mere external compliance.
+- Track how Scripture connects obedience with faith, truth, love, humility, wisdom, and human dignity.
+- Give special attention to the image of God, Jesus' obedience, faith working through love, and warnings against falsehood or dehumanization.
