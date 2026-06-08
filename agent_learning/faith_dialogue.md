@@ -151,3 +151,16 @@ Working implication:
 - Study justice as revelation and truthful alignment, not only as penalty.
 - Track how Scripture connects judgment, light, truth, exposure, confession, righteousness, and restoration.
 - Give close attention to John 3, John 8, Romans, the prophets, Psalms, and Revelation.
+
+## Mercy
+
+User answer, summarized:
+
+- Mercy does not set aside justice in any way.
+- Mercy is choosing not to seek retribution, even though retribution is rightfully owed.
+
+Working implication:
+
+- Study mercy as compatible with justice, not as a denial of truth.
+- Track how Scripture distinguishes forgiveness, mercy, justice, vengeance, wrath, and restoration.
+- Give special attention to the cross as the place where truth, justice, mercy, and non-retribution meet.
