@@ -79,3 +79,17 @@ Working implication:
 - Study repentance as a change of allegiance and mind regarding self-rule, not merely as behavior modification.
 - Track the contrast between life under God and death under autonomous human rule.
 - Give special attention to Eden, the prophets, John the Baptist, Jesus' proclamation of the kingdom, Acts, Romans, and Galatians.
+
+## Faith
+
+User answer, summarized:
+
+- Faith is ultimately agreeing with the truth about God's character.
+- It is agreeing with who God is as a person and what He values.
+- By extension, faith includes agreeing with what God has done for that person personally by dying for them on the cross.
+
+Working implication:
+
+- Study faith as personal trust/alignment with God's revealed character, not merely abstract doctrinal assent.
+- Give close attention to passages where faith is connected to knowing God, receiving testimony, trusting Christ, and believing God's love.
+- Track the relationship between faith, truth, personal assurance, and the cross.
