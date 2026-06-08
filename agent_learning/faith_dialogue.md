@@ -66,3 +66,16 @@ Working implication:
 - Study how Scripture speaks about sin being dealt with at the cross and how that relates to ongoing repentance, discipleship, and holiness.
 - Compare passages that can sound conditional or law-like against the broader New Testament claims about completed salvation in Christ.
 - Give close attention to John, Romans, Galatians, Hebrews, and 1 John.
+
+## Repentance
+
+User answer, summarized:
+
+- Repentance is turning from the belief that full self-determination, self-boundary determination, and self-rule can bring life and peace.
+- It is agreeing with God that those things ultimately bring death.
+
+Working implication:
+
+- Study repentance as a change of allegiance and mind regarding self-rule, not merely as behavior modification.
+- Track the contrast between life under God and death under autonomous human rule.
+- Give special attention to Eden, the prophets, John the Baptist, Jesus' proclamation of the kingdom, Acts, Romans, and Galatians.
