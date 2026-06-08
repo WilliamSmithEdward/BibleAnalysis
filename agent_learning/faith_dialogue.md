@@ -367,3 +367,16 @@ Working implication:
 - Study the resurrection as God's public demonstration of mastery over physical death.
 - Track how Scripture connects resurrection with assurance, hope, eternal life, bodily renewal, and the defeat of death.
 - Give special attention to the resurrection narratives, 1 Corinthians 15, Romans 6, Romans 8, John 11, and Revelation.
+
+## Kingdom of God
+
+User answer, summarized:
+
+- The kingdom of God lives in the heart of people who are in God's life and in whom God lives.
+- The kingdom of God is spiritual.
+
+Working implication:
+
+- Study the kingdom as spiritual participation in God's life and presence.
+- Track indwelling, union with Christ, life in the Spirit, new birth, and the heart as kingdom themes.
+- Compare this with passages about the kingdom's future fullness, justice, resurrection, and new creation.
