@@ -279,3 +279,16 @@ Working implication:
 - Study death as the outcome of autonomous self-rule, not merely biological cessation.
 - Track Scripture's relationship between death, sin, free will, hardening, grief, judgment, and separation from God.
 - Give special attention to Genesis 3, Romans 1, Romans 5-8, John, Ezekiel, the warnings of Jesus, and Revelation.
+
+## God's Judgment
+
+User answer, summarized:
+
+- God's judgment is the alignment of all things into the light of the truth.
+- This truth is established by God's character and His creation.
+
+Working implication:
+
+- Study judgment as truthful alignment of reality under God's character, not merely sentencing.
+- Track how Scripture connects judgment with light, truth, creation, righteousness, exposure, restoration, wrath, and final separation.
+- Compare judgment passages with the user's definitions of justice, mercy, forgiveness, reconciliation, holiness, sin, and death.
