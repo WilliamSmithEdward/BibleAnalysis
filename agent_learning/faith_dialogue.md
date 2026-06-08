@@ -717,6 +717,22 @@ Working implication:
 - Track Scripture's teaching on wisdom, discernment, conscience, freedom, dependence on God, and walking by the Spirit.
 - Give special attention to Proverbs, James, Galatians 5, Romans 14, Philippians 1, and Colossians 1.
 
+## Wisdom
+
+User answer, summarized:
+
+- What wisdom feels like or produces is not easy for the user to write down.
+- When wisdom "hits," it connects directly to the user's heart and mind.
+- It "hits home."
+- It feels like, "I see what you were trying to tell me there God."
+- It can also feel like, "wow I never thought about it like that before God."
+
+Working implication:
+
+- Study wisdom as God-given recognition that connects heart and mind.
+- Track wisdom as insight, understanding, correction, revelation, discernment, and relational communication from God.
+- Give special attention to Proverbs, James, Luke 24, the parables, and passages where Jesus opens understanding.
+
 ## Servant Leadership
 
 User answer, summarized:
