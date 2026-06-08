@@ -122,3 +122,19 @@ Working implication:
 - Study the Spirit's work in conviction, exposure, truth, grief, longing, and awakening.
 - Track passages where God uses suffering, emptiness, failure, exile, loss, or disillusionment to turn people toward truth.
 - Compare this with passages about the Spirit testifying to Christ, convicting the world, giving life, and revealing the love of God.
+
+## Love
+
+User answer, summarized:
+
+- God literally is love.
+- Whatever a person truly feels, experiences, witnesses, or expresses as love is God manifesting in reality.
+- This does not mean God is only love in a reductive sense.
+- It means everything love truly is, is God.
+
+Working implication:
+
+- Treat love as central to God's being, not merely as one separable behavior.
+- Study passages where God's love is revealed in Christ, especially the cross.
+- Compare love with holiness, justice, truth, mercy, wrath, and judgment without treating them as contradictions inside God.
+- Give special attention to 1 John, John, Romans 5, 1 Corinthians 13, Ephesians, and the Gospels' portrayal of Jesus.
