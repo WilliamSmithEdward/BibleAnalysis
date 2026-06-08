@@ -545,3 +545,23 @@ Working implication:
 - Study reassurance in connection with breath, hope, future, home, peace amid chaos, and being with God.
 - Give special attention to passages about God's dwelling with His people, Jesus preparing a place, hope that does not disappoint, resurrection, and new creation.
 - Track how Scripture holds present chaos together with future security in God.
+
+## Home With God
+
+User answer, summarized:
+
+- Home is somewhere safe.
+- Home is where the user can rest and be at peace.
+- Home is where the user can be themself.
+- Home is where the user can lay down their head.
+- Home is where the user is protected.
+- Home is where the user can thrive.
+- Home is where love is.
+- Home is where the user's family is.
+- Jesus is the user's home.
+
+Working implication:
+
+- Study home with God through safety, rest, peace, protection, flourishing, love, belonging, and family.
+- Give special attention to God's dwelling place, refuge Psalms, Sabbath/rest, adoption, household of God, Jesus preparing a place, and new creation.
+- Track how Scripture speaks of Jesus not only as destination, but as the reality in which a person can finally be safe and at rest.
