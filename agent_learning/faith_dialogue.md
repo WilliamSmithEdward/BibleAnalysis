@@ -688,6 +688,22 @@ Working implication:
 - Track the difference between receiving good gifts with gratitude and using them to numb, avoid, or flee reality.
 - Give special attention to peace, rest, sobriety, self-control, stewardship, joy, and freedom in Christ.
 
+## Enjoyment Versus Escape
+
+User answer, summarized:
+
+- Warning signs that enjoyment is becoming escape include getting angry when people pull the user away from it.
+- Other warning signs include neglecting responsibilities.
+- Spending a lot of money on it can also be a warning sign.
+- These are road signs that it may be time to slow down.
+- This should be held in balance, because it is okay to have hobbies.
+
+Working implication:
+
+- Study discernment around hobbies, pleasure, stewardship, responsibility, anger, and freedom.
+- Track biblical wisdom around self-control without collapsing into shame or rejecting good gifts.
+- Give special attention to freedom in Christ, stewardship, contentment, and receiving created goods with thanksgiving.
+
 ## Servant Leadership
 
 User answer, summarized:
