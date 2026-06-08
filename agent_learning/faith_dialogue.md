@@ -335,3 +335,19 @@ Working implication:
 - Study final separation in relation to God's grief, human will, truth, desire, and refusal of relationship.
 - Distinguish wanting God's benefits or approval from wanting God Himself.
 - Give close attention to passages about knowing God, "I never knew you," hardening, rejection of light, outer darkness, divine grief, and God's desire that all be saved.
+
+## Knowing God Personally
+
+User answer, summarized:
+
+- People have opinions, values, things they care about, personality, and character traits.
+- God has those things too.
+- God cannot be ascended to, intellectualized, or merely mused about.
+- God must be personally encountered.
+- That encounter starts and ends at the cross.
+
+Working implication:
+
+- Study knowing God as personal encounter, not merely conceptual knowledge.
+- Treat the cross as the central revelation of God's person, values, character, and desire.
+- Give special attention to John, 1 John, the Gospels' crucifixion narratives, Paul's theology of the cross, and passages about seeing/knowing God in Christ.
