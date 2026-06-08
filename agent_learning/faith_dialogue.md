@@ -180,3 +180,18 @@ Working implication:
 - Study forgiveness as release of debt and relinquishment of recompense.
 - Distinguish forgiveness from reconciliation, restored trust, restored access, and boundary-setting.
 - Track how Scripture connects forgiveness with debt, mercy, repentance, wisdom, restoration, and protection from further harm.
+
+## Reconciliation
+
+User answer, summarized:
+
+- True reconciliation starts with mutual recognition of reality in the full light of the truth.
+- Reconciliation is the agreement between two people to re-enter a relationship.
+- Forgiveness can exist without reconciliation.
+- True reconciliation cannot exist without forgiveness and mutual recognition of reality.
+
+Working implication:
+
+- Study reconciliation as relational restoration grounded in truth, not merely conflict avoidance.
+- Distinguish God's completed forgiveness in Christ, humanity's receiving of that truth, and relational reconciliation.
+- Track passages about confession, truth, peace, restored fellowship, trust, and the ministry of reconciliation.
