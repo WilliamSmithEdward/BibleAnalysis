@@ -107,3 +107,18 @@ Working implication:
 - Study Scripture as witness that leads toward knowing God truthfully, not merely as a rulebook or data source.
 - Prioritize passages where God reveals His name, character, desires, grief, mercy, justice, faithfulness, and love.
 - Track how Scripture presents relational knowing of God through Christ, the Spirit, covenant, prayer, obedience, and love.
+
+## The Holy Spirit
+
+User answer, summarized:
+
+- The Holy Spirit uses a person's circumstances.
+- This includes the inevitable "crash and burn" of relationships around the person.
+- The Spirit exposes worldly success as empty.
+- The Spirit also exposes distraction, numbing, and other things a person turns to in the world as never enough, ultimately hollow.
+
+Working implication:
+
+- Study the Spirit's work in conviction, exposure, truth, grief, longing, and awakening.
+- Track passages where God uses suffering, emptiness, failure, exile, loss, or disillusionment to turn people toward truth.
+- Compare this with passages about the Spirit testifying to Christ, convicting the world, giving life, and revealing the love of God.
