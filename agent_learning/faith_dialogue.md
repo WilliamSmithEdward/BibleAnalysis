@@ -661,12 +661,14 @@ User answer, summarized:
 
 - There is no science to discerning whether something is truly from God.
 - The way the user knows is that it aligns with God's character.
+- The part of God's character the user recognizes most easily in His communication is His peace.
 
 Working implication:
 
 - Study discernment as character-alignment rather than mechanical certainty.
 - Track how Scripture teaches testing spirits, fruit, wisdom, truth, love, peace, humility, and consistency with Christ.
 - Give special attention to Jesus as the definitive revelation of God's character.
+- Study God's peace as a recognizable marker of His presence and communication.
 
 ## Servant Leadership
 
