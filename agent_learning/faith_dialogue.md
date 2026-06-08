@@ -456,3 +456,17 @@ Working implication:
 - Study baptism as outward sign of inward union with Christ.
 - Track death, burial, resurrection, identification with Christ, new life, and public witness.
 - Give special attention to Romans 6, Colossians 2, Acts, and the baptism of Jesus.
+
+## Communion / Lord's Supper
+
+User answer, summarized:
+
+- Communion is a person identifying with the crucifixion.
+- The cup represents Jesus' blood shed on the cross.
+- The bread represents Jesus' body broken by torture, abuse, nails, and suffocation.
+
+Working implication:
+
+- Study communion as identification with Jesus' crucifixion and His bodily suffering for us.
+- Track remembrance, covenant, blood, body, participation, proclamation of His death, and shared life in Christ.
+- Give special attention to the Last Supper narratives, 1 Corinthians 10-11, John 6, and crucifixion accounts.
