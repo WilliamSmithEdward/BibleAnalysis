@@ -625,9 +625,11 @@ Working implication:
 User answer, summarized:
 
 - Good servant leadership means trying to keep many different dimensions in a healthy balance.
+- This balance should keep the humanity of both oneself and others central.
 
 Working implication:
 
 - Study servant leadership as wise balance, not as self-erasure or control.
 - Track how Scripture balances service, truth, love, boundaries, courage, humility, responsibility, rest, and dependence on God.
 - Give special attention to Jesus' leadership, the apostles, pastoral instructions, wisdom literature, and passages about the body of Christ.
+- Track how Scripture honors the image of God in both the person serving and the people being served.
