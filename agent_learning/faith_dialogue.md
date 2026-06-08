@@ -630,12 +630,14 @@ User answer, summarized:
 - God has all of the context of the user's life.
 - God knows things about the user that even the user does not know.
 - This is comforting because God knows it all, cares for the user, is on the user's side, and is actively working all things for good in the user's life.
+- When the user remembers this, it feels like they can breathe and that things are going to work out.
 
 Working implication:
 
 - Study God's complete knowledge, care, advocacy, and providential work as reassurance against self-condemnation.
 - Track passages about God knowing the heart, numbering the hairs of the head, searching and knowing His people, intercession, advocacy, and working all things for good.
 - Give special attention to Psalm 139, Matthew 10, Romans 8, Hebrews 4, 1 John 2, and John 10.
+- Track the experiential link between God's full knowledge and the user's sense of breath, hope, and non-catastrophe.
 
 ## Servant Leadership
 
