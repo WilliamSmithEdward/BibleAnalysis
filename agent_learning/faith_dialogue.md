@@ -234,3 +234,15 @@ Working implication:
 - Study righteousness as relational dependence on God as the source of goodness.
 - Track the difference between received righteousness, self-righteousness, law-righteousness, and life in Christ.
 - Give special attention to Abraham's faith, Romans, Galatians, Philippians 3, and Jesus' conflicts with religious self-righteousness.
+
+## Grace
+
+User answer, summarized:
+
+- Grace is a gift given to someone who does not deserve it.
+
+Working implication:
+
+- Study grace as undeserved gift, especially in relation to Christ, salvation, forgiveness, freedom, and holiness.
+- Track the distinction between grace, wages, merit, law, debt, and boasting.
+- Give special attention to Romans, Ephesians, Galatians, John, and Titus.
