@@ -1,0 +1,15 @@
+file,short_name,translation,trust_score,priority_tier,composition,lookup_format,notes
+kjv.txt,KJV,King James Version,95,primary,Full Protestant Bible,tab_verse,Historical Protestant baseline in this corpus; archaic English and older textual base.
+asv.txt,ASV,American Standard Version,88,primary,Full Protestant Bible,tab_verse,Formal 1901 revision in the KJV/Revised Version tradition.
+web.txt,WEB,World English Bible,84,primary,Full Protestant Bible,tab_verse,Modern public-domain ASV-based translation with Protestant editions.
+bsb.txt,BSB,Berean Standard Bible,80,primary,Full Protestant Bible,tab_verse,Modern public-domain Protestant-friendly translation with transparent Berean/Bible Hub ecosystem.
+erv.txt,ERV,English Revised Version,76,secondary,Full Protestant Bible,tab_verse,Historical Anglican/Protestant revision tradition closely related to ASV.
+dbt.txt,DBT,Darby Bible Translation,69,secondary,Full Protestant Bible,tab_verse,Niche literal translation associated with Darby and Brethren/dispensational circles.
+ylt.txt,YLT,Young's Literal Translation,66,secondary,Full Protestant Bible,tab_verse,Very literal study aid; awkward as a primary reading Bible.
+akjv.txt,AKJV,American King James Version,58,secondary,Full Protestant Bible,tab_verse,KJV-adjacent modernization with limited independent reception.
+wbt.txt,WBT,Webster's Bible Translation,54,secondary,Full Protestant Bible,tab_verse,Historical KJV-family revision by Noah Webster.
+jps.txt,JPS/WEY,JPS Tanakh 1917 OT / Weymouth NT,52,comparison,Composite full Bible,tab_verse,Open Bible file combines JPS 1917 Old Testament with Weymouth New Testament.
+brb.txt,BRB,Berean Reader's Bible,50,comparison,Full Protestant Bible,chapter_reader,Reader-oriented Berean-family text; useful for smooth reading.
+slt.txt,SLT,Smith's Literal Translation,43,comparison,Full Protestant Bible,tab_verse,Niche literal translation with limited broad Protestant adoption.
+drb.txt,DRB,Douay-Rheims Bible,25,comparison,Full Catholic Bible,tab_verse,Historically significant Catholic Vulgate-tradition translation.
+cpdv.txt,CPDV,Catholic Public Domain Version,18,comparison,Full Catholic Bible,tab_verse,Modern Catholic public-domain text with little broad Protestant reception.
