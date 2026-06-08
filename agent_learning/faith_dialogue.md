@@ -195,3 +195,17 @@ Working implication:
 - Study reconciliation as relational restoration grounded in truth, not merely conflict avoidance.
 - Distinguish God's completed forgiveness in Christ, humanity's receiving of that truth, and relational reconciliation.
 - Track passages about confession, truth, peace, restored fellowship, trust, and the ministry of reconciliation.
+
+## Holiness
+
+User answer, summarized:
+
+- Holiness is complete and total freedom.
+- This freedom exists within a partition of reality defined by grace.
+- Holiness is bounded by the full light of the truth.
+
+Working implication:
+
+- Study holiness as grace-defined freedom in truth, not merely rule-keeping or moral separation.
+- Track how Scripture connects holiness with freedom, light, truth, grace, union with Christ, and life in the Spirit.
+- Compare passages about holiness with passages about law, liberty, love, and the new creation.
