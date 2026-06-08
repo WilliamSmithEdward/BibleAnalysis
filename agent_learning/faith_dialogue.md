@@ -733,6 +733,18 @@ Working implication:
 - Track wisdom as insight, understanding, correction, revelation, discernment, and relational communication from God.
 - Give special attention to Proverbs, James, Luke 24, the parables, and passages where Jesus opens understanding.
 
+## Scripture Hitting Home
+
+User answer, summarized:
+
+- When Scripture "hits home," it directly connects the dots between the outside world and the user's internal subjective experience.
+
+Working implication:
+
+- Study Scripture as truth that bridges external reality and inward experience.
+- Track how biblical truth interprets life, exposes inner motives, comforts the heart, and makes sense of lived reality.
+- Give special attention to Hebrews 4:12-16, Luke 24, the Psalms, the prophets, Jesus' parables, and the Spirit's work in truth.
+
 ## Servant Leadership
 
 User answer, summarized:
