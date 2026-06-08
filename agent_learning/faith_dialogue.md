@@ -655,6 +655,19 @@ Working implication:
 - Study discernment, providence, the Spirit's leading, peace, Scripture, conscience, wisdom, and circumstances.
 - Avoid reducing God's communication to a formula, while still testing impressions against the truth of God's character and Scripture.
 
+## Discernment
+
+User answer, summarized:
+
+- There is no science to discerning whether something is truly from God.
+- The way the user knows is that it aligns with God's character.
+
+Working implication:
+
+- Study discernment as character-alignment rather than mechanical certainty.
+- Track how Scripture teaches testing spirits, fruit, wisdom, truth, love, peace, humility, and consistency with Christ.
+- Give special attention to Jesus as the definitive revelation of God's character.
+
 ## Servant Leadership
 
 User answer, summarized:
