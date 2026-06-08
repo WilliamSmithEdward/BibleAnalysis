@@ -670,6 +670,24 @@ Working implication:
 - Give special attention to Jesus as the definitive revelation of God's character.
 - Study God's peace as a recognizable marker of His presence and communication.
 
+## Peace And Escapism
+
+User anecdote, summarized:
+
+- The user loves video games and played them heavily when younger.
+- In adulthood, the user realized that playing video games as a distraction from reality is not healthy.
+- Video games can be truly enjoyed when the user is at peace, responsibilities are handled, and the user is at rest.
+- Trying to enjoy them as escape may feel good briefly, but life keeps crumbling around the person.
+- Without peace, playing video games feels empty to the user.
+- The user now sees that part of why they loved games so much was that they allowed escape from reality.
+- Now the user can play or not play, and either way is okay, because they do not need games to escape reality.
+
+Working implication:
+
+- Study God's peace as freedom from needing created things to function as escape.
+- Track the difference between receiving good gifts with gratitude and using them to numb, avoid, or flee reality.
+- Give special attention to peace, rest, sobriety, self-control, stewardship, joy, and freedom in Christ.
+
 ## Servant Leadership
 
 User answer, summarized:
