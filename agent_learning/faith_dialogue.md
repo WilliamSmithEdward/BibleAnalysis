@@ -351,3 +351,19 @@ Working implication:
 - Study knowing God as personal encounter, not merely conceptual knowledge.
 - Treat the cross as the central revelation of God's person, values, character, and desire.
 - Give special attention to John, 1 John, the Gospels' crucifixion narratives, Paul's theology of the cross, and passages about seeing/knowing God in Christ.
+
+## Resurrection
+
+User answer, summarized:
+
+- The resurrection demonstrates that God has power over physical death.
+- Physical death is real and close to home.
+- Human death is a universal concern: the running statistic is 1 out of 1.
+- God fully conquered death and has mastery over it.
+- Physical death is solved for and a non-issue from the standpoint of God's power.
+
+Working implication:
+
+- Study the resurrection as God's public demonstration of mastery over physical death.
+- Track how Scripture connects resurrection with assurance, hope, eternal life, bodily renewal, and the defeat of death.
+- Give special attention to the resurrection narratives, 1 Corinthians 15, Romans 6, Romans 8, John 11, and Revelation.
