@@ -631,6 +631,7 @@ User answer, summarized:
 - God knows things about the user that even the user does not know.
 - This is comforting because God knows it all, cares for the user, is on the user's side, and is actively working all things for good in the user's life.
 - When the user remembers this, it feels like they can breathe and that things are going to work out.
+- "Things are going to work out" means God is aware of the full context of the user's life, is actively walking with the user, and is working things out around the user.
 
 Working implication:
 
@@ -638,6 +639,7 @@ Working implication:
 - Track passages about God knowing the heart, numbering the hairs of the head, searching and knowing His people, intercession, advocacy, and working all things for good.
 - Give special attention to Psalm 139, Matthew 10, Romans 8, Hebrews 4, 1 John 2, and John 10.
 - Track the experiential link between God's full knowledge and the user's sense of breath, hope, and non-catastrophe.
+- Distinguish "working out" from circumstances merely becoming easier; the emphasis is God's active presence and providence.
 
 ## Servant Leadership
 
