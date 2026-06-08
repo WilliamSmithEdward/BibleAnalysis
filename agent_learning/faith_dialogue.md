@@ -292,3 +292,24 @@ Working implication:
 - Study judgment as truthful alignment of reality under God's character, not merely sentencing.
 - Track how Scripture connects judgment with light, truth, creation, righteousness, exposure, restoration, wrath, and final separation.
 - Compare judgment passages with the user's definitions of justice, mercy, forgiveness, reconciliation, holiness, sin, and death.
+
+## God's Wrath
+
+User answer, summarized:
+
+- God's wrath is not God actively harming anyone.
+- God does not wish anyone to experience wrath.
+- God wishes all to experience eternal life.
+- Eternal life is offered as a free gift, like a no-strings-attached invitation to the most wonderful party that will ever be thrown.
+
+User's personal thoughts, explicitly marked as personal:
+
+- A person who rejects the invitation may then have their own personal reality.
+- In that reality, they may have full mastery over space, time, and matter.
+- They may be able to do or will anything they want into existence in their own "bubble."
+
+Working implication:
+
+- Study wrath in relation to rejection of life, self-rule, separation, divine grief, and God's desire that none perish.
+- Distinguish what Scripture plainly teaches from speculative models about the mechanics of judgment or final separation.
+- Give special attention to Romans 1, John 3, 2 Peter 3:9, 1 Timothy 2:4, Jesus' warnings, and Revelation.
