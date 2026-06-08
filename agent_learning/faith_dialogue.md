@@ -417,3 +417,16 @@ Working implication:
 - Study obedience as truthful alignment with God rather than mere external compliance.
 - Track how Scripture connects obedience with faith, truth, love, humility, wisdom, and human dignity.
 - Give special attention to the image of God, Jesus' obedience, faith working through love, and warnings against falsehood or dehumanization.
+
+## Worship
+
+User answer, summarized:
+
+- Worship is the personal connection of the truth of God's character, provision, goodness, and kindness shown toward a person by God.
+- This truth connects with that person's life, emotional core, mental faculties, and subjective experience of reality.
+
+Working implication:
+
+- Study worship as whole-person response to the truth of God's character and kindness.
+- Track worship through gratitude, love, awe, surrender, joy, lament, embodied life, and truth.
+- Give special attention to John 4, Romans 12, Psalms, Revelation, and worship shown toward Jesus in the Gospels.
