@@ -495,3 +495,16 @@ Working implication:
 - Do not manufacture certainty where the user is unsure.
 - Allow central passages to emerge through study, prayer, comparison, and lived resonance.
 - Treat uncertainty as part of honest inquiry, not as a failure.
+
+## Current Live Question
+
+User answer:
+
+- How God is still working in the user's life, even when it feels like He is not there and everything is chaos.
+
+Working implication:
+
+- Study God's hidden presence, faithfulness in chaos, suffering, silence, providence, lament, and endurance.
+- Give special attention to Joseph, Job, Elijah, the Psalms of lament, the exile, the disciples during the crucifixion, the road to Emmaus, Romans 8, and Hebrews.
+- Avoid forcing easy answers where Scripture makes room for grief, confusion, waiting, and honest prayer.
+- Look for patterns where God is working before people can perceive it clearly.
