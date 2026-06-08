@@ -482,3 +482,16 @@ Working implication:
 - Study the Bible as the story of God's loving rescue from sin and death.
 - Keep God's greatness, honor, praise, and glory connected to His rescuing love rather than detached from it.
 - Track this storyline from creation, fall, promise, Israel, Christ, cross, resurrection, Spirit, church, judgment, and new creation.
+
+## Central Passage
+
+User answer:
+
+- The user is not sure which passage or story in Scripture feels most central right now.
+- The user does not want to force an answer.
+
+Working implication:
+
+- Do not manufacture certainty where the user is unsure.
+- Allow central passages to emerge through study, prayer, comparison, and lived resonance.
+- Treat uncertainty as part of honest inquiry, not as a failure.
