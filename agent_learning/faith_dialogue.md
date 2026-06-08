@@ -515,6 +515,8 @@ User answer:
 
 - When everything feels chaotic, the user most needs reassurance.
 - The user described this as "mega reassurance" and "massive amounts of security."
+- The user also needs the broader set of reassurance, direction, rescue, strength to endure, clarity, and comfort.
+- For the user personally, reassurance and security are the primary needs.
 
 Working implication:
 
