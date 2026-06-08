@@ -619,3 +619,15 @@ Working implication:
 - Study rest in Christ against the pressures of responsibility, self-expectation, insecurity, people-pleasing, boundaries, servant leadership, and distorted perception.
 - Track how Scripture distinguishes faithful service from anxious performance.
 - Give special attention to Matthew 11:28-30, John 15, Galatians 1, Galatians 5, Romans 12, 2 Corinthians, and Jesus' own boundaries in the Gospels.
+
+## Servant Leadership
+
+User answer, summarized:
+
+- Good servant leadership means trying to keep many different dimensions in a healthy balance.
+
+Working implication:
+
+- Study servant leadership as wise balance, not as self-erasure or control.
+- Track how Scripture balances service, truth, love, boundaries, courage, humility, responsibility, rest, and dependence on God.
+- Give special attention to Jesus' leadership, the apostles, pastoral instructions, wisdom literature, and passages about the body of Christ.
