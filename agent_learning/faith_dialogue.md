@@ -559,9 +559,11 @@ User answer, summarized:
 - Home is where love is.
 - Home is where the user's family is.
 - Jesus is the user's home.
+- Everything that is good in the user's life is found in their relationship with Jesus.
 
 Working implication:
 
 - Study home with God through safety, rest, peace, protection, flourishing, love, belonging, and family.
 - Give special attention to God's dwelling place, refuge Psalms, Sabbath/rest, adoption, household of God, Jesus preparing a place, and new creation.
 - Track how Scripture speaks of Jesus not only as destination, but as the reality in which a person can finally be safe and at rest.
+- Track how Scripture presents every good thing as found in relationship with Christ.
