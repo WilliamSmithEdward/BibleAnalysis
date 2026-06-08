@@ -593,6 +593,9 @@ User answer:
 
 - When considering the good things Jesus has given, the user's response is direct gratitude and worship: "thank you Jesus."
 - When the user feels gratitude toward Jesus, they most want to rest in Him.
+- Resting in Jesus means living in complete and total freedom.
+- It means believing that, as far as the user's righteousness and going to God's eternal home are concerned, it is a done deal.
+- The user is "signed, sealed, delivered" and belongs to Jesus because of what He did on the cross.
 
 Working implication:
 
@@ -600,3 +603,4 @@ Working implication:
 - Track how gratitude becomes worship, trust, humility, and security.
 - Give special attention to the Psalms, Luke 17, Philippians 4, Colossians 3, and 1 Thessalonians 5.
 - Study gratitude that leads to rest in Christ rather than pressure to perform.
+- Study assurance, belonging to Christ, completed righteousness, freedom, and eternal home as central to resting in Jesus.
