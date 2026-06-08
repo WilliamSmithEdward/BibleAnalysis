@@ -380,3 +380,15 @@ Working implication:
 - Study the kingdom as spiritual participation in God's life and presence.
 - Track indwelling, union with Christ, life in the Spirit, new birth, and the heart as kingdom themes.
 - Compare this with passages about the kingdom's future fullness, justice, resurrection, and new creation.
+
+## Prayer
+
+User answer, summarized:
+
+- Prayer is talking with God, plain and simple.
+
+Working implication:
+
+- Study prayer as direct relational communication with God.
+- Track how Scripture presents prayer through trust, honesty, lament, gratitude, asking, listening, and communion.
+- Give special attention to Jesus' prayers, the Psalms, the Lord's Prayer, John 17, and Paul's prayers.
