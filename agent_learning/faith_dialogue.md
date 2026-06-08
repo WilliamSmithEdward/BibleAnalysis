@@ -430,3 +430,15 @@ Working implication:
 - Study worship as whole-person response to the truth of God's character and kindness.
 - Track worship through gratitude, love, awe, surrender, joy, lament, embodied life, and truth.
 - Give special attention to John 4, Romans 12, Psalms, Revelation, and worship shown toward Jesus in the Gospels.
+
+## Church
+
+User answer, summarized:
+
+- The church is a group of people who have an eternal relationship with God.
+
+Working implication:
+
+- Study the church as people united by eternal relationship with God, not merely an institution or meeting structure.
+- Track union with Christ, the body of Christ, family of God, temple of the Spirit, shared life, and mission.
+- Give special attention to Acts, Ephesians, 1 Corinthians, John 17, and Jesus' teaching about His people.
