@@ -604,3 +604,18 @@ Working implication:
 - Give special attention to the Psalms, Luke 17, Philippians 4, Colossians 3, and 1 Thessalonians 5.
 - Study gratitude that leads to rest in Christ rather than pressure to perform.
 - Study assurance, belonging to Christ, completed righteousness, freedom, and eternal home as central to resting in Jesus.
+
+## Threats To Rest
+
+User answer, summarized:
+
+- Everyday expectations and responsibilities threaten the user's ability to rest in Jesus.
+- This includes expectations the user puts on themself and others.
+- The user's own warped perception of reality and insecurities can color reality.
+- Another tension is setting boundaries with others while balancing not people-pleasing with being a good servant and leader.
+
+Working implication:
+
+- Study rest in Christ against the pressures of responsibility, self-expectation, insecurity, people-pleasing, boundaries, servant leadership, and distorted perception.
+- Track how Scripture distinguishes faithful service from anxious performance.
+- Give special attention to Matthew 11:28-30, John 15, Galatians 1, Galatians 5, Romans 12, 2 Corinthians, and Jesus' own boundaries in the Gospels.
