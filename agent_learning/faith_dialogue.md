@@ -209,3 +209,15 @@ Working implication:
 - Study holiness as grace-defined freedom in truth, not merely rule-keeping or moral separation.
 - Track how Scripture connects holiness with freedom, light, truth, grace, union with Christ, and life in the Spirit.
 - Compare passages about holiness with passages about law, liberty, love, and the new creation.
+
+## Sin
+
+User answer, summarized:
+
+- Sin is the belief that good and evil can be defined apart from a direct, personal, and intimate relationship with God.
+
+Working implication:
+
+- Study sin at its root as autonomous moral definition apart from God, not merely isolated behavior.
+- Give special attention to Genesis 3 and the tree of the knowledge of good and evil.
+- Track how Scripture connects sin with deception, unbelief, death, law, self-rule, alienation, and false judgment.
