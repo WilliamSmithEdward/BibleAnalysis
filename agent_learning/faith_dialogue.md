@@ -246,3 +246,19 @@ Working implication:
 - Study grace as undeserved gift, especially in relation to Christ, salvation, forgiveness, freedom, and holiness.
 - Track the distinction between grace, wages, merit, law, debt, and boasting.
 - Give special attention to Romans, Ephesians, Galatians, John, and Titus.
+
+## Eternal Life
+
+User answer, summarized:
+
+- Eternal life is knowing Jesus.
+- It is being part of His life.
+- God has complete power over space, time, matter, the mind, intellect, information, logic, states of energy, and being.
+- Because of this, reviving a person from physical death is trivial for God.
+- Eternal life is living forever with God and being part of God's life.
+
+Working implication:
+
+- Study eternal life as relational participation in God's life, not merely endless existence.
+- Give special attention to John 17:3, John, 1 John, resurrection passages, union with Christ, and new creation.
+- Track how Scripture connects knowing Jesus, resurrection, life, incorruptibility, and participation in God.
