@@ -442,3 +442,17 @@ Working implication:
 - Study the church as people united by eternal relationship with God, not merely an institution or meeting structure.
 - Track union with Christ, the body of Christ, family of God, temple of the Spirit, shared life, and mission.
 - Give special attention to Acts, Ephesians, 1 Corinthians, John 17, and Jesus' teaching about His people.
+
+## Water Baptism
+
+User answer, summarized:
+
+- Water baptism is the physical, outward reflection of the inner spiritual reality.
+- A person has died, been buried with Christ, and risen again.
+- In baptism, the person identifies with Jesus' death, burial, and resurrection.
+
+Working implication:
+
+- Study baptism as outward sign of inward union with Christ.
+- Track death, burial, resurrection, identification with Christ, new life, and public witness.
+- Give special attention to Romans 6, Colossians 2, Acts, and the baptism of Jesus.
