@@ -313,3 +313,25 @@ Working implication:
 - Study wrath in relation to rejection of life, self-rule, separation, divine grief, and God's desire that none perish.
 - Distinguish what Scripture plainly teaches from speculative models about the mechanics of judgment or final separation.
 - Give special attention to Romans 1, John 3, 2 Peter 3:9, 1 Timothy 2:4, Jesus' warnings, and Revelation.
+
+## Hell / Final Separation
+
+User answer, summarized:
+
+- God is able to accurately determine whether a person truly wants relationship with Him.
+- This means relationship with God for who God is as a person and what He values.
+- It is not about what a person thinks they can do for God, or what they think God wants from them.
+- God may be able to determine that a person does not want Him for who He is and never will.
+- This would be tragic and heartbreaking to God.
+- God would still honor that person's decision and honor them.
+
+User caveat:
+
+- This is the user's interpretation of something God might say.
+- The user is not trying to speak for God.
+
+Working implication:
+
+- Study final separation in relation to God's grief, human will, truth, desire, and refusal of relationship.
+- Distinguish wanting God's benefits or approval from wanting God Himself.
+- Give close attention to passages about knowing God, "I never knew you," hardening, rejection of light, outer darkness, divine grief, and God's desire that all be saved.
