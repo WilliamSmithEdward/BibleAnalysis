@@ -501,11 +501,14 @@ Working implication:
 User answer:
 
 - How God is still working in the user's life, even when it feels like He is not there and everything is chaos.
+- The user wants to learn to believe more deeply that Jesus is there with them in every situation, and that they can turn to Him even moment to moment.
 
 Working implication:
 
 - Study God's hidden presence, faithfulness in chaos, suffering, silence, providence, lament, and endurance.
+- Study Jesus' presence in ordinary work, responsibility, pressure, and moment-to-moment life.
 - Give special attention to Joseph, Job, Elijah, the Psalms of lament, the exile, the disciples during the crucifixion, the road to Emmaus, Romans 8, and Hebrews.
+- Give special attention to abiding in Christ, praying without ceasing, casting cares on Him, and Christ's promise to be with His people.
 - Avoid forcing easy answers where Scripture makes room for grief, confusion, waiting, and honest prayer.
 - Look for patterns where God is working before people can perceive it clearly.
 
