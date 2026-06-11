@@ -505,6 +505,7 @@ User answer:
 - What most gets in the way of turning to Jesus moment to moment is self-reliance and losing sight of the reality that the user can do nothing apart from Jesus.
 - In the moment, self-reliance feels like being on autopilot and wanting to force resolution in order to get out of the situation.
 - In the first five seconds of an autopilot moment, turning to Jesus would look like being still and knowing He is God.
+- In stillness, the user needs to remember all of these truths together: Jesus is with me; Jesus is God; I am His; I do not have to force this; apart from Him I can do nothing.
 
 Working implication:
 
@@ -514,6 +515,7 @@ Working implication:
 - Give special attention to abiding in Christ, praying without ceasing, casting cares on Him, Christ's promise to be with His people, and John 15's "apart from Me you can do nothing."
 - Track the contrast between abiding with Jesus inside a situation and forcing resolution in order to escape discomfort.
 - Study stillness before God as the first movement out of autopilot and back into dependence.
+- Treat these truths as a connected cluster for practice and study, not as competing options.
 - Avoid forcing easy answers where Scripture makes room for grief, confusion, waiting, and honest prayer.
 - Look for patterns where God is working before people can perceive it clearly.
 
