@@ -878,12 +878,15 @@ Working implication:
 User answer, summarized:
 
 - Good works are the natural outworking of the Holy Spirit in a believer's life.
+- When a believer does not see much fruit in their life, they should trust that God is the good tree and is bearing fruit through their life effortlessly on their part.
+- Drop the worry, and the fruit will grow naturally.
 
 Working implication:
 
 - Study good works as fruit of the Spirit's life, not the basis of righteousness or belonging.
 - Track how Scripture connects faith, grace, fruit, love, service, and the Spirit's work.
 - Give special attention to John 15, Galatians 5, Ephesians 2:8-10, Titus 2-3, James, and 1 John.
+- Study fruitfulness as the outcome of abiding and trust rather than anxious self-measurement.
 
 ## Scripture Hitting Home
 
