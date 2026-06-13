@@ -14,6 +14,26 @@ Working implication:
 - Prioritize passages about incarnation, creation, divine identity, worship, atonement, resurrection, judgment, and lordship.
 - Compare translations carefully where Christological language is especially weight-bearing.
 
+## Why Jesus Became Truly Human
+
+User answer, summarized:
+
+- The answer is multi-dimensional.
+- Jesus became truly human so no one could say He did not get the full human experience.
+- Jesus became truly human so no one could say He had an advantage or somehow "did it the easy way."
+- Jesus became truly human because He loves His creation.
+
+User's personal speculation:
+
+- Jesus may also have become truly human because He was curious.
+
+Working implication:
+
+- Study the incarnation as God's full entrance into human experience, not merely divine appearance in human form.
+- Track passages about Jesus' weakness, temptation, suffering, hunger, grief, dependence, obedience, and compassion.
+- Give special attention to John 1, Philippians 2, Hebrews 2, Hebrews 4, the wilderness temptation, Gethsemane, and the crucifixion.
+- Keep the "curiosity" thought marked as speculation unless a future study finds stronger textual grounding.
+
 ## What Jesus Came to Accomplish
 
 User answer, summarized:
