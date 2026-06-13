@@ -438,6 +438,8 @@ User answer, summarized:
 - The difference is that the communication channel is much clearer and cleaner.
 - The user compared this to the difference between communicating through styrofoam cups and a string versus talking face to face.
 - God's discipline is trying to produce repentance that leads to fuller and deeper relationship, abundance of life, and greater wisdom.
+- God's discipline always leads the user back to God's grace, mercy, forgiveness, and peace.
+- Shame and condemnation lead the user further away from those things.
 
 Working implication:
 
@@ -445,6 +447,7 @@ Working implication:
 - Track how Scripture presents discipline, guidance, conviction, wisdom, pruning, and correction for those who belong to God.
 - Compare distant/resisted communication with clear relational knowing, while avoiding over-systematizing the metaphor.
 - Study discipline as restorative and life-giving, not punitive abandonment.
+- Track grace, mercy, forgiveness, and peace as diagnostic fruit of God's discipline, in contrast to shame and condemnation.
 
 ## Knowing God Personally
 
