@@ -916,6 +916,7 @@ User answer, summarized:
 - Union with Christ is multi-dimensional.
 - It includes legal, relational, spiritual, organic, mystical, and possibly other dimensions.
 - The image of union with Christ that feels most alive to the user right now is a wedding and the party after.
+- The wedding feast image reveals God united with His people, in the fullness of reality, forever.
 
 Working implication:
 
@@ -923,6 +924,7 @@ Working implication:
 - Study union with Christ across justification, belonging, indwelling, vine/branches, body/head, marriage imagery, death/resurrection, and participation in divine life.
 - Give special attention to John 15, John 17, Romans 6, Romans 8, 1 Corinthians 12, Galatians 2:20, Ephesians, Colossians, and 2 Peter 1.
 - Give special attention to bride/bridegroom imagery, covenant joy, wedding feast, celebration, and the marriage supper of the Lamb.
+- Study the wedding feast as the final fullness of union, reality, joy, and permanence with God.
 
 ## Scripture Hitting Home
 
