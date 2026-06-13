@@ -873,6 +873,18 @@ Working implication:
 - Track how Scripture connects maturity with fullness in Christ, rest, freedom, wisdom, and ceasing from self-justifying striving.
 - Give special attention to John 19:30, Matthew 11:28-30, Romans 8, Galatians 5, Colossians 2, Hebrews 4, and 2 Peter 1.
 
+## Good Works
+
+User answer, summarized:
+
+- Good works are the natural outworking of the Holy Spirit in a believer's life.
+
+Working implication:
+
+- Study good works as fruit of the Spirit's life, not the basis of righteousness or belonging.
+- Track how Scripture connects faith, grace, fruit, love, service, and the Spirit's work.
+- Give special attention to John 15, Galatians 5, Ephesians 2:8-10, Titus 2-3, James, and 1 John.
+
 ## Scripture Hitting Home
 
 User answer, summarized:
