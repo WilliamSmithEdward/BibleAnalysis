@@ -898,6 +898,8 @@ User answer, summarized:
 - Jesus has it covered.
 - Nothing is left that we need in order to live forever.
 - Pruning in John 15 means cutting away any beliefs in a soul that contradict the truth that Jesus, His provision, and His rest are sufficient for life.
+- In John 15, the Father loves to see His creation bear fruit.
+- Creation can only bear fruit when attached to the Vine.
 
 Working implication:
 
@@ -905,6 +907,7 @@ Working implication:
 - Track how Scripture connects abiding with faith, rest, provision, fruitfulness, love, and the completed work of Christ.
 - Give special attention to John 15, John 19:30, Romans 8, Galatians 3, Ephesians 1, Colossians 2, and Hebrews 10.
 - Study pruning as removal of false belief and self-reliance, not as punitive loss of God's favor.
+- Study the Father as one who delights in fruitfulness produced through union with the Son.
 
 ## Scripture Hitting Home
 
