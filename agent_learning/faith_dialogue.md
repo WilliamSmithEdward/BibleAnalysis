@@ -897,12 +897,14 @@ User answer, summarized:
 - Abiding means trusting that what Jesus did for us on the cross is enough for everything.
 - Jesus has it covered.
 - Nothing is left that we need in order to live forever.
+- Pruning in John 15 means cutting away any beliefs in a soul that contradict the truth that Jesus, His provision, and His rest are sufficient for life.
 
 Working implication:
 
 - Study abiding as remaining in the truth of Jesus' finished sufficiency and freely given provision.
 - Track how Scripture connects abiding with faith, rest, provision, fruitfulness, love, and the completed work of Christ.
 - Give special attention to John 15, John 19:30, Romans 8, Galatians 3, Ephesians 1, Colossians 2, and Hebrews 10.
+- Study pruning as removal of false belief and self-reliance, not as punitive loss of God's favor.
 
 ## Scripture Hitting Home
 
