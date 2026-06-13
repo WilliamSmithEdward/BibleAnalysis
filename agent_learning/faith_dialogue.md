@@ -238,6 +238,20 @@ Working implication:
 - Distinguish forgiveness from reconciliation, restored trust, restored access, and boundary-setting.
 - Track how Scripture connects forgiveness with debt, mercy, repentance, wisdom, restoration, and protection from further harm.
 
+## Boundaries
+
+User answer, summarized:
+
+- The boundary is the truth.
+- Boundaries are shared agreement on reality and the nature of the relationship between two souls.
+- Misalignment on the truth is the canary.
+
+Working implication:
+
+- Study boundaries as truth-alignment about reality and relationship, not fear-based self-protection.
+- Track how Scripture connects truth, peace, reconciliation, wisdom, access, trust, and relational limits.
+- Compare boundaries with forgiveness and mercy so they do not become hidden retribution, but also do not erase truth.
+
 ## Reconciliation
 
 User answer, summarized:
