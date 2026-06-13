@@ -179,6 +179,7 @@ User answer, summarized:
 - God created beings with real freedom because without freedom or free will, love cannot be expressed.
 - When God commands people to love Him, He is showing humanity that true love, life, and truth can never come, grow, spring forth, or be born from command alone.
 - Love must be born out of liberty, free will, and uncoerced consent.
+- If people try to love God out of obligation, fear, or a quest for power, it will move them further away from the heart of God.
 
 Working implication:
 
@@ -186,6 +187,7 @@ Working implication:
 - Track how Scripture connects love, willing response, obedience, faith, rejection, grief, and invitation.
 - Compare this with the user's views on sin, death, wrath, final separation, and God's refusal to override free will.
 - Study divine commands as revealing truth and exposing reality, without treating command itself as the source of love.
+- Track the difference between true love and religious behavior driven by obligation, fear, control, or power-seeking.
 
 ## Justice
 
