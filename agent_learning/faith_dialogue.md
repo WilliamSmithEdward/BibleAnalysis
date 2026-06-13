@@ -415,6 +415,21 @@ Working implication:
 - Distinguish wanting God's benefits or approval from wanting God Himself.
 - Give close attention to passages about knowing God, "I never knew you," hardening, rejection of light, outer darkness, divine grief, and God's desire that all be saved.
 
+## God's Pursuit And Human Hardening
+
+User answer, summarized as personal understanding:
+
+- A person can progressively harden or wall themselves off from God.
+- God may get louder and clearer in His communication with that soul up to a point.
+- At some point, God may allow them to exercise their will without His voice or communication.
+- The user understands this as applying only to people who do not have a full relationship with God.
+
+Working implication:
+
+- Study hardening as progressive resistance to God's communication, not merely an arbitrary divine cutoff.
+- Track how Scripture speaks about God's pursuit, warning, patience, grief, giving people over, silence, and honoring human will.
+- Distinguish the user's personal understanding from settled doctrinal claims unless future study gives stronger textual grounding.
+
 ## Knowing God Personally
 
 User answer, summarized:
