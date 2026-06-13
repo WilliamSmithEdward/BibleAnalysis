@@ -856,6 +856,23 @@ Working implication:
 - Track wisdom as insight, understanding, correction, revelation, discernment, and relational communication from God.
 - Give special attention to Proverbs, James, Luke 24, the parables, and passages where Jesus opens understanding.
 
+## Spiritual Maturity
+
+User answer, summarized:
+
+- Spiritual maturity is alignment with the truth.
+- The truth is that, as far as life, righteousness, and what humans need to live are concerned, Jesus Christ did it all on the cross.
+- God has it covered.
+- God has freely given everything needed to live, sustain, and thrive.
+- There is nothing to chase.
+- A person can rest fully, completely, freely, and forever.
+
+Working implication:
+
+- Study spiritual maturity as deepening rest in the completed work and sufficiency of Jesus Christ.
+- Track how Scripture connects maturity with fullness in Christ, rest, freedom, wisdom, and ceasing from self-justifying striving.
+- Give special attention to John 19:30, Matthew 11:28-30, Romans 8, Galatians 5, Colossians 2, Hebrews 4, and 2 Peter 1.
+
 ## Scripture Hitting Home
 
 User answer, summarized:
