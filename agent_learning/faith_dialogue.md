@@ -180,6 +180,11 @@ User answer, summarized:
 - When God commands people to love Him, He is showing humanity that true love, life, and truth can never come, grow, spring forth, or be born from command alone.
 - Love must be born out of liberty, free will, and uncoerced consent.
 - If people try to love God out of obligation, fear, or a quest for power, it will move them further away from the heart of God.
+- God's commandments show that there is an absolute standard of goodness and righteousness.
+- God's commandments also show the contrast between the soul and that standard: no one lives up to it.
+- God did not create humans to live by the law.
+- What draws a person toward the heart of God is the realization of the soul's need for grace, mercy, and forgiveness from God.
+- God designed humanity to live by grace, mercy, and forgiveness.
 
 Working implication:
 
@@ -188,6 +193,8 @@ Working implication:
 - Compare this with the user's views on sin, death, wrath, final separation, and God's refusal to override free will.
 - Study divine commands as revealing truth and exposing reality, without treating command itself as the source of love.
 - Track the difference between true love and religious behavior driven by obligation, fear, control, or power-seeking.
+- Study law as revealing God's standard and exposing the soul's need, not as humanity's intended life-source.
+- Study grace, mercy, and forgiveness as the relational atmosphere humanity was designed to live by.
 
 ## Justice
 
