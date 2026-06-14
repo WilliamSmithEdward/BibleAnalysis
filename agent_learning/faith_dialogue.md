@@ -634,6 +634,18 @@ Working implication:
 - Keep God's greatness, honor, praise, and glory connected to His rescuing love rather than detached from it.
 - Track this storyline from creation, fall, promise, Israel, Christ, cross, resurrection, Spirit, church, judgment, and new creation.
 
+## God's Glory
+
+User answer, summarized:
+
+- God's glory is His character on full display.
+
+Working implication:
+
+- Study glory as revelation/display of God's character, not merely brightness, fame, or power.
+- Track how God's glory is revealed in creation, covenant, mercy, judgment, incarnation, cross, resurrection, and new creation.
+- Give special attention to Exodus 33-34, John 1, John 17, 2 Corinthians 3-4, Hebrews 1, and Revelation.
+
 ## Purpose Of Present Life
 
 User answer, summarized:
