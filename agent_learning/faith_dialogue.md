@@ -640,6 +640,8 @@ User answer, summarized:
 
 - God's glory is His character on full display.
 - God's character is displayed most clearly at the cross.
+- The cross shows that God is willing to do the hard work Himself and not put it on someone else.
+- God is willing to "walk the walk."
 
 Working implication:
 
@@ -647,6 +649,7 @@ Working implication:
 - Track how God's glory is revealed in creation, covenant, mercy, judgment, incarnation, cross, resurrection, and new creation.
 - Give special attention to Exodus 33-34, John 1, John 17, 2 Corinthians 3-4, Hebrews 1, and Revelation.
 - Study the cross as the clearest display of God's glory/character.
+- Study the cross as God's own personal participation in the hardest work of rescue.
 
 ## Purpose Of Present Life
 
