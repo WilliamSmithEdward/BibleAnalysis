@@ -337,12 +337,14 @@ Working implication:
 User answer, summarized:
 
 - Grace is a gift given to someone who does not deserve it.
+- Grace without truth further alienates a soul from reality.
 
 Working implication:
 
 - Study grace as undeserved gift, especially in relation to Christ, salvation, forgiveness, freedom, and holiness.
 - Track the distinction between grace, wages, merit, law, debt, and boasting.
 - Give special attention to Romans, Ephesians, Galatians, John, and Titus.
+- Study grace as inseparable from truth, because false grace can alienate a soul from reality.
 
 ## Eternal Life
 
