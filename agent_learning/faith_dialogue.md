@@ -341,6 +341,18 @@ Working implication:
 - Give special attention to Romans 6-8, Romans 12:1-2, John 15, Galatians 5, Colossians 2-3, Hebrews 10, and 1 Thessalonians 5.
 - Study world-love and worldly acceptance as resistance to integrating Christ's sufficiency.
 
+## The World
+
+User answer, summarized:
+
+- Theologically, "the world" means anything temporal, not eternal in nature.
+
+Working implication:
+
+- Study "the world" as the temporal order when contrasted with what is eternal in God.
+- Distinguish the created world God loves from the world-system or temporal reality treated as ultimate.
+- Give special attention to John, 1 John 2, Romans 12, 1 Corinthians 7, Galatians, Colossians, James 4, and Revelation.
+
 ## Sin
 
 User answer, summarized:
