@@ -934,6 +934,18 @@ Working implication:
 - Track how Scripture connects humility with dependence, abundance in Christ, gratitude, freedom from boasting, and rest.
 - Give special attention to Philippians 2, John 15, 2 Corinthians 12, Colossians 2, James 4, and 1 Peter 5.
 
+## Pride
+
+User answer, summarized:
+
+- Pride is trying to pursue life and peace with God through the knowledge of good and evil.
+
+Working implication:
+
+- Study pride as an Eden-shaped attempt to secure life through autonomous moral knowledge.
+- Track how Scripture contrasts pride with dependence, grace, faith, humility, and relational knowing of God.
+- Give special attention to Genesis 3, Proverbs, Romans, Galatians, Philippians 3, James 4, and Jesus' conflicts with self-righteousness.
+
 ## Good Works
 
 User answer, summarized:
