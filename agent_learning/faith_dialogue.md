@@ -639,12 +639,14 @@ Working implication:
 User answer, summarized:
 
 - God's glory is His character on full display.
+- God's character is displayed most clearly at the cross.
 
 Working implication:
 
 - Study glory as revelation/display of God's character, not merely brightness, fame, or power.
 - Track how God's glory is revealed in creation, covenant, mercy, judgment, incarnation, cross, resurrection, and new creation.
 - Give special attention to Exodus 33-34, John 1, John 17, 2 Corinthians 3-4, Hebrews 1, and Revelation.
+- Study the cross as the clearest display of God's glory/character.
 
 ## Purpose Of Present Life
 
