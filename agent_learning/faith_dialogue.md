@@ -346,12 +346,15 @@ Working implication:
 User answer, summarized:
 
 - Theologically, "the world" means anything temporal, not eternal in nature.
+- A believer should relate to temporal things like work, money, pleasure, reputation, and success as gifts from God to be stewarded and received with gratitude and thanksgiving.
+- The user's response: "thank you Jesus!"
 
 Working implication:
 
 - Study "the world" as the temporal order when contrasted with what is eternal in God.
 - Distinguish the created world God loves from the world-system or temporal reality treated as ultimate.
 - Give special attention to John, 1 John 2, Romans 12, 1 Corinthians 7, Galatians, Colossians, James 4, and Revelation.
+- Study temporal gifts through stewardship, gratitude, thanksgiving, and non-attachment to created things as ultimate.
 
 ## Sin
 
