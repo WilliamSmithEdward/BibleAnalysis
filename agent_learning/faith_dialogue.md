@@ -338,6 +338,8 @@ User answer, summarized:
 
 - Grace is a gift given to someone who does not deserve it.
 - Grace without truth further alienates a soul from reality.
+- Truth without grace leads to a never-ending cycle of striving for perfection that is unattainable in the infinite sense.
+- God did not create humans to be good by knowledge of right and wrong, but by knowledge of Him in relationship.
 
 Working implication:
 
@@ -345,6 +347,8 @@ Working implication:
 - Track the distinction between grace, wages, merit, law, debt, and boasting.
 - Give special attention to Romans, Ephesians, Galatians, John, and Titus.
 - Study grace as inseparable from truth, because false grace can alienate a soul from reality.
+- Study truth as inseparable from grace, because truth without grace can become endless striving after unattainable perfection.
+- Track the contrast between knowing right and wrong and knowing God relationally.
 
 ## Eternal Life
 
