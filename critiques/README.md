@@ -8,3 +8,4 @@ The aim is to speak truthfully, lovingly, and with a view toward repentance, res
 
 - [A Loving But Honest Critique of American Conservative Protestant Churches Entangled With Republican Politics](american_conservative_protestant_churches_june_2026.md)
 - [A Loving But Honest Critique of American Far-Left and Progressive Protestant Churches](american_progressive_protestant_churches_june_2026.md)
+- [A Loving But Honest Critique of American Megachurches and Branded Consumer Christianity](american_megachurches_brand_consumer_christianity_june_2026.md)
