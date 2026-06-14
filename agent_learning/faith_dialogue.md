@@ -258,6 +258,18 @@ Working implication:
 - Distinguish forgiveness from reconciliation, restored trust, restored access, and boundary-setting.
 - Track how Scripture connects forgiveness with debt, mercy, repentance, wisdom, restoration, and protection from further harm.
 
+## Confession
+
+User answer, summarized:
+
+- Confession is alignment with reality.
+
+Working implication:
+
+- Study confession as truthful agreement with reality before God, not shame-performance.
+- Track how Scripture connects confession with truth, light, forgiveness, cleansing, mercy, and restored fellowship.
+- Give special attention to 1 John 1, Psalm 32, Psalm 51, Proverbs 28:13, James 5, and Luke 15.
+
 ## Boundaries
 
 User answer, summarized:
