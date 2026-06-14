@@ -148,12 +148,14 @@ User answer, summarized:
 - Theology is like a compass.
 - A good compass can orient a person and tell them what direction the destination is.
 - Theology is not the destination itself.
+- When theology becomes unhealthy, it builds up pride, deceit, arrogance, and bitterness.
 
 Working implication:
 
 - Use theology as orientation toward knowing God, not as a substitute for God.
 - Study doctrine as a servant of relational truth, worship, wisdom, and encounter with Jesus Christ.
 - Keep theological frameworks humble, directional, and accountable to Scripture and God's revealed character.
+- Track pride, deceit, arrogance, and bitterness as warning signs that theology has become unhealthy.
 
 ## The Holy Spirit
 
