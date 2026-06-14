@@ -1031,6 +1031,19 @@ Working implication:
 - Track how Scripture contrasts pride with dependence, grace, faith, humility, and relational knowing of God.
 - Give special attention to Genesis 3, Proverbs, Romans, Galatians, Philippians 3, James 4, and Jesus' conflicts with self-righteousness.
 
+## Enemy's Main Lie About God
+
+User answer, summarized:
+
+- The enemy's main lie is that God wants a soul to be good in order to gain love and acceptance.
+- The truth is that goodness is a free gift of God by being in relationship with Him.
+
+Working implication:
+
+- Study accusation and deception as attempts to turn goodness into a condition for love rather than a gift from relationship.
+- Track how Scripture contrasts received righteousness/goodness with earned acceptance, self-righteousness, and condemnation.
+- Give special attention to Genesis 3, Job, Zechariah 3, Romans, Galatians, Ephesians 2, and the temptations of Jesus.
+
 ## Good Works
 
 User answer, summarized:
