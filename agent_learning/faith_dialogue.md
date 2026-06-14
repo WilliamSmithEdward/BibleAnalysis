@@ -481,6 +481,8 @@ User answer, summarized:
 - God's discipline is trying to produce repentance that leads to fuller and deeper relationship, abundance of life, and greater wisdom.
 - God's discipline always leads the user back to God's grace, mercy, forgiveness, and peace.
 - Shame and condemnation lead the user further away from those things.
+- Conviction points to the character of God.
+- Accusation points away from the character of God.
 
 Working implication:
 
@@ -489,6 +491,7 @@ Working implication:
 - Compare distant/resisted communication with clear relational knowing, while avoiding over-systematizing the metaphor.
 - Study discipline as restorative and life-giving, not punitive abandonment.
 - Track grace, mercy, forgiveness, and peace as diagnostic fruit of God's discipline, in contrast to shame and condemnation.
+- Study conviction and accusation by their direction: toward or away from God's character.
 
 ## Knowing God Personally
 
