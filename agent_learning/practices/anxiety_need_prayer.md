@@ -10,6 +10,8 @@ I need You in everything.
 I need You in every situation.
 Life feels like it is crushing me sometimes.
 I need You.
+Let me know that You have this situation handled.
+Let me know that I am going to be okay with You.
 ```
 
 ## Truth Under The Prayer
@@ -19,6 +21,10 @@ Anxiety does not mean Jesus is absent.
 Anxiety reveals that I am human and need my Savior.
 
 Peace is the presence of God.
+
+Jesus has the full context.
+
+Jesus is able to handle the situation.
 
 ## Scripture Anchors
 
