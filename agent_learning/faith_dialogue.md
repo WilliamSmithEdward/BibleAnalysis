@@ -617,6 +617,7 @@ User answer, summarized:
 - Bad things happen, and there is no explanation.
 - There is hope because Jesus Christ conquered death.
 - When there is no explanation for suffering, God gives Himself fully and completely.
+- Because God enters suffering in Jesus, God is uniquely equipped to understand the entire context of the user's life.
 
 Working implication:
 
@@ -624,6 +625,7 @@ Working implication:
 - Track biblical lament, broken creation, unexplained pain, endurance, hope, resurrection, and Jesus' victory over death.
 - Give special attention to Job, Psalms of lament, Ecclesiastes, John 11, Romans 8, 1 Corinthians 15, and Revelation 21.
 - Study God's self-giving presence as the answer deeper than explanation.
+- Connect incarnation and suffering to God's full-context understanding and care.
 
 ## Central Passage
 
