@@ -793,6 +793,7 @@ User answer, summarized:
 - When God's guidance feels unclear, the user sees this as part of growing up: learning to make decisions and learning from those decisions.
 - If God made every decision for a person, they would never grow.
 - Mature freedom as God's son means trusting that the user is fully righteous, fully a son, with a full inheritance, and has everything needed for life and godliness because of what Jesus did on the cross and nothing else.
+- Because the inheritance is already full in Christ, the user sees ambition, work, and responsibility as gifts God has placed in them.
 
 Working implication:
 
@@ -805,6 +806,7 @@ Working implication:
 - Study God as Father in terms of trust, reliance, guidance, care, and faithful direction.
 - Study unclear guidance as a possible context for growth, wisdom, responsibility, and mature sonship rather than abandonment.
 - Distinguish mature freedom from self-rule by grounding freedom in Christ's finished work, righteousness, sonship, inheritance, and provision.
+- Study ambition, work, and responsibility as entrusted gifts inside sonship, not attempts to earn identity or inheritance.
 
 ## Noticing God Walking With The User
 
