@@ -320,12 +320,14 @@ User answer, summarized:
 - Reconciliation is the agreement between two people to re-enter a relationship.
 - Forgiveness can exist without reconciliation.
 - True reconciliation cannot exist without forgiveness and mutual recognition of reality.
+- If forgiveness releases repayment, trust requires acknowledgement of the truth and reality before it can be restored.
 
 Working implication:
 
 - Study reconciliation as relational restoration grounded in truth, not merely conflict avoidance.
 - Distinguish God's completed forgiveness in Christ, humanity's receiving of that truth, and relational reconciliation.
 - Track passages about confession, truth, peace, restored fellowship, trust, and the ministry of reconciliation.
+- Study trust restoration as requiring acknowledgement of truth and reality.
 
 ## Holiness
 
