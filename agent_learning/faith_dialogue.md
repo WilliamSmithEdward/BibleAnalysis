@@ -73,6 +73,7 @@ User answer, summarized:
 - Penal substitution, victory over death and evil powers, exposure of human rebellion, and reconciliation to God are all reasonable conclusions.
 - The essence the user sees is humanity murdering the most innocent man who ever has lived or ever will live.
 - The cross shows that human legal systems, human self-rule, and human determination, no matter how well structured or governed, will ultimately hurt the innocent.
+- The cross reveals that God would rather allow His creation to dominate Him, in the fullest sense, than dominate His creation or force it into relationship with Him against its will.
 
 Working implication:
 
@@ -80,6 +81,7 @@ Working implication:
 - Study how Scripture contrasts human judgment with God's judgment.
 - Track the theme of the innocent sufferer, especially in Jesus, Job, Joseph, the prophets, the Psalms, and Isaiah's servant passages.
 - Avoid reducing the cross to only one atonement model when the text presents several dimensions.
+- Study the cross as the revelation of God's non-coercive love and His refusal to force relationship.
 
 ## What God Wants Now
 
