@@ -795,6 +795,7 @@ User answer, summarized:
 - Mature freedom as God's son means trusting that the user is fully righteous, fully a son, with a full inheritance, and has everything needed for life and godliness because of what Jesus did on the cross and nothing else.
 - Because the inheritance is already full in Christ, the user sees ambition, work, and responsibility as gifts God has placed in them.
 - Warning signs that ambition is turning into striving or self-justification include caring whether other people see the user, envy the user, or give attention for what the user is doing.
+- Hidden faithfulness means not worrying about hiding or not hiding, and simply trusting that what Jesus did on the cross is sufficient for everything.
 
 Working implication:
 
@@ -809,6 +810,7 @@ Working implication:
 - Distinguish mature freedom from self-rule by grounding freedom in Christ's finished work, righteousness, sonship, inheritance, and provision.
 - Study ambition, work, and responsibility as entrusted gifts inside sonship, not attempts to earn identity or inheritance.
 - Track visibility-seeking, envy-seeking, and attention-seeking as warning signs that vocation is drifting away from rest in Christ.
+- Study hidden faithfulness as freedom from the visibility question, not as a new performance of being unseen.
 
 ## Noticing God Walking With The User
 
