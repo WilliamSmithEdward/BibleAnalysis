@@ -642,6 +642,9 @@ User answer, summarized:
 - God's character is displayed most clearly at the cross.
 - The cross shows that God is willing to do the hard work Himself and not put it on someone else.
 - God is willing to "walk the walk."
+- Because God "walked the walk" first, the user can rest in Him.
+- The user can trust that God knows their life, is on their side, and can be relied on.
+- God is good and is good to the user.
 
 Working implication:
 
@@ -650,6 +653,7 @@ Working implication:
 - Give special attention to Exodus 33-34, John 1, John 17, 2 Corinthians 3-4, Hebrews 1, and Revelation.
 - Study the cross as the clearest display of God's glory/character.
 - Study the cross as God's own personal participation in the hardest work of rescue.
+- Study the cross as the basis for rest, trust, reliance, and confidence in God's goodness.
 
 ## Purpose Of Present Life
 
