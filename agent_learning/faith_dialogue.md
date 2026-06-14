@@ -787,6 +787,9 @@ User answer, summarized:
 - When the user remembers this, it feels like they can breathe and that things are going to work out.
 - "Things are going to work out" means God is aware of the full context of the user's life, is actively walking with the user, and is working things out around the user.
 - God sees in the user the fullness of the user's identity as a son, even when the user has a hard time seeing it.
+- Being God's son means God is the user's Dad.
+- The user can trust Him and rely on Him.
+- God would never steer the user in the wrong direction.
 
 Working implication:
 
@@ -796,6 +799,7 @@ Working implication:
 - Track the experiential link between God's full knowledge and the user's sense of breath, hope, and non-catastrophe.
 - Distinguish "working out" from circumstances merely becoming easier; the emphasis is God's active presence and providence.
 - Study sonship/adoption as something God sees fully and the believer grows into perceiving.
+- Study God as Father in terms of trust, reliance, guidance, care, and faithful direction.
 
 ## Noticing God Walking With The User
 
