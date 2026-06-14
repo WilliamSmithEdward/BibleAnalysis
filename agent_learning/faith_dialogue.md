@@ -232,6 +232,9 @@ User answer, summarized:
 - All wrongs will be made right, all distortion made clear, and all injustice brought to justice when He judges the world at the final judgment.
 - Because Jesus will make all wrongs right at final judgment, believers should love their enemies and pray for those who persecute them.
 - Believers can recognize that an enemy could become their brother or sister in the blink of an eye by the power of God.
+- To pray honestly for an enemy is to pray in the light of Jesus Christ and His work on the cross.
+- If Jesus died for the user as much as He died for the user's enemy, and both need sin washed away by His blood, then both stand on equal footing.
+- The user can love their enemy because God loves their enemy.
 
 Working implication:
 
@@ -241,6 +244,7 @@ Working implication:
 - Study justice for the vulnerable as ultimately centered in Jesus Christ, Messiah and Savior of the world.
 - Study final judgment as the ultimate setting-right of reality by Jesus Christ.
 - Study enemy-love and prayer for persecutors as present justice shaped by confidence in God's final judgment and transforming power.
+- Study enemy-prayer through the cross, equal need for mercy, and God's love for both victim and enemy.
 
 ## Mercy
 
