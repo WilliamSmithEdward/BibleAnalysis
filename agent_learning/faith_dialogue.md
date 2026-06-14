@@ -326,6 +326,19 @@ Working implication:
 - Compare passages about holiness with passages about law, liberty, love, and the new creation.
 - Study holiness as the free circulation of received grace, mercy, and forgiveness toward others.
 
+## Sanctification
+
+User answer, summarized:
+
+- Sanctification is trusting that Jesus Christ and His work on the cross are sufficient for all aspects of life and peace with God.
+- Sanctification is integrating that reality, and its downstream implications for life, into every facet of awareness, motivation, intention, emotion, and mental state.
+
+Working implication:
+
+- Study sanctification as integration of Christ's sufficiency into the whole person, not merely external moral improvement.
+- Track how Scripture connects sanctification with union with Christ, renewal of the mind, freedom, peace, fruit of the Spirit, and living from the finished work of the cross.
+- Give special attention to Romans 6-8, Romans 12:1-2, John 15, Galatians 5, Colossians 2-3, Hebrews 10, and 1 Thessalonians 5.
+
 ## Sin
 
 User answer, summarized:
