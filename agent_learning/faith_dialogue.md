@@ -141,6 +141,20 @@ Working implication:
 - Prioritize passages where God reveals His name, character, desires, grief, mercy, justice, faithfulness, and love.
 - Track how Scripture presents relational knowing of God through Christ, the Spirit, covenant, prayer, obedience, and love.
 
+## Theology
+
+User answer, summarized:
+
+- Theology is like a compass.
+- A good compass can orient a person and tell them what direction the destination is.
+- Theology is not the destination itself.
+
+Working implication:
+
+- Use theology as orientation toward knowing God, not as a substitute for God.
+- Study doctrine as a servant of relational truth, worship, wisdom, and encounter with Jesus Christ.
+- Keep theological frameworks humble, directional, and accountable to Scripture and God's revealed character.
+
 ## The Holy Spirit
 
 User answer, summarized:
