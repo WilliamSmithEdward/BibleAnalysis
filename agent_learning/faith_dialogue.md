@@ -236,6 +236,9 @@ User answer, summarized:
 - If Jesus died for the user as much as He died for the user's enemy, and both need sin washed away by His blood, then both stand on equal footing.
 - The user can love their enemy because God loves their enemy.
 - Because both the user and the user's enemy stand on equal footing at the cross, vengeance is obliterated and placed under the blood of Jesus Christ.
+- When vengeance is put under the blood of Jesus, the reality of the wrong does not disappear.
+- The wrong can be acknowledged truthfully.
+- A person can truly forgive as God has forgiven them, release the wrongdoer from obligation to repay, and no longer seek recompense.
 
 Working implication:
 
@@ -247,6 +250,7 @@ Working implication:
 - Study enemy-love and prayer for persecutors as present justice shaped by confidence in God's final judgment and transforming power.
 - Study enemy-prayer through the cross, equal need for mercy, and God's love for both victim and enemy.
 - Study the cross as the place where vengeance is put under the blood of Jesus.
+- Study forgiveness as truthful acknowledgement of wrong joined to release of repayment and recompense.
 
 ## Mercy
 
