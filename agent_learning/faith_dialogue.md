@@ -227,12 +227,14 @@ User answer, summarized:
 
 - Justice is full alignment with the truth.
 - Justice brings any deception, distortion, or deviation into the full light of the truth.
+- True justice for widows, orphans, enemies, and the vulnerable, in light of Jesus, is faith in Jesus Christ as the Messiah and Savior of the world.
 
 Working implication:
 
 - Study justice as revelation and truthful alignment, not only as penalty.
 - Track how Scripture connects judgment, light, truth, exposure, confession, righteousness, and restoration.
 - Give close attention to John 3, John 8, Romans, the prophets, Psalms, and Revelation.
+- Study justice for the vulnerable as ultimately centered in Jesus Christ, Messiah and Savior of the world.
 
 ## Mercy
 
