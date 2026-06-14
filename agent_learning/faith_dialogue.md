@@ -230,6 +230,8 @@ User answer, summarized:
 - True justice for widows, orphans, enemies, and the vulnerable, in light of Jesus, is faith in Jesus Christ as the Messiah and Savior of the world.
 - Faith in Jesus becomes justice in action because Jesus Christ is the great equalizer.
 - All wrongs will be made right, all distortion made clear, and all injustice brought to justice when He judges the world at the final judgment.
+- Because Jesus will make all wrongs right at final judgment, believers should love their enemies and pray for those who persecute them.
+- Believers can recognize that an enemy could become their brother or sister in the blink of an eye by the power of God.
 
 Working implication:
 
@@ -238,6 +240,7 @@ Working implication:
 - Give close attention to John 3, John 8, Romans, the prophets, Psalms, and Revelation.
 - Study justice for the vulnerable as ultimately centered in Jesus Christ, Messiah and Savior of the world.
 - Study final judgment as the ultimate setting-right of reality by Jesus Christ.
+- Study enemy-love and prayer for persecutors as present justice shaped by confidence in God's final judgment and transforming power.
 
 ## Mercy
 
