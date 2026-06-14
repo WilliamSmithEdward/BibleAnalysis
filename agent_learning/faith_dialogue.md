@@ -609,6 +609,20 @@ Working implication:
 - Track Scripture's themes of choice, treasure, heart, worship, testing, invitation, and revelation of what a person loves.
 - Give special attention to Genesis 2-3, Deuteronomy 30, Joshua 24, the Gospels, Romans 1, and Revelation.
 
+## Suffering
+
+User answer, summarized:
+
+- Suffering reveals that humans are living in a broken world.
+- Bad things happen, and there is no explanation.
+- There is hope because Jesus Christ conquered death.
+
+Working implication:
+
+- Study suffering without forcing explanations Scripture does not give.
+- Track biblical lament, broken creation, unexplained pain, endurance, hope, resurrection, and Jesus' victory over death.
+- Give special attention to Job, Psalms of lament, Ecclesiastes, John 11, Romans 8, 1 Corinthians 15, and Revelation 21.
+
 ## Central Passage
 
 User answer:
