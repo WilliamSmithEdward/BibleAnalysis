@@ -337,6 +337,8 @@ Working implication:
 User answer, summarized:
 
 - Grace is a gift given to someone who does not deserve it.
+- Jesus is "full of grace and truth" because God is the fullness of both.
+- The user compared this to light being both particle and wave.
 - Grace without truth further alienates a soul from reality.
 - Truth without grace leads to a never-ending cycle of striving for perfection that is unattainable in the infinite sense.
 - God did not create humans to be good by knowledge of right and wrong, but by knowledge of Him in relationship.
@@ -349,6 +351,7 @@ Working implication:
 - Study grace as inseparable from truth, because false grace can alienate a soul from reality.
 - Study truth as inseparable from grace, because truth without grace can become endless striving after unattainable perfection.
 - Track the contrast between knowing right and wrong and knowing God relationally.
+- Study grace and truth not as opposing forces to balance, but as fullness united in God and revealed in Jesus Christ.
 
 ## Eternal Life
 
