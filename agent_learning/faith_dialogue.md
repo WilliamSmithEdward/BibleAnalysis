@@ -149,6 +149,7 @@ User answer, summarized:
 - A good compass can orient a person and tell them what direction the destination is.
 - Theology is not the destination itself.
 - When theology becomes unhealthy, it builds up pride, deceit, arrogance, and bitterness.
+- Healthy theology produces knowledge of and relationship with Jesus Christ.
 
 Working implication:
 
@@ -156,6 +157,7 @@ Working implication:
 - Study doctrine as a servant of relational truth, worship, wisdom, and encounter with Jesus Christ.
 - Keep theological frameworks humble, directional, and accountable to Scripture and God's revealed character.
 - Track pride, deceit, arrogance, and bitterness as warning signs that theology has become unhealthy.
+- Track knowledge of and relationship with Jesus Christ as the fruit of healthy theology.
 
 ## The Holy Spirit
 
