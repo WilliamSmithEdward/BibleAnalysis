@@ -616,12 +616,14 @@ User answer, summarized:
 - Suffering reveals that humans are living in a broken world.
 - Bad things happen, and there is no explanation.
 - There is hope because Jesus Christ conquered death.
+- When there is no explanation for suffering, God gives Himself fully and completely.
 
 Working implication:
 
 - Study suffering without forcing explanations Scripture does not give.
 - Track biblical lament, broken creation, unexplained pain, endurance, hope, resurrection, and Jesus' victory over death.
 - Give special attention to Job, Psalms of lament, Ecclesiastes, John 11, Romans 8, 1 Corinthians 15, and Revelation 21.
+- Study God's self-giving presence as the answer deeper than explanation.
 
 ## Central Passage
 
