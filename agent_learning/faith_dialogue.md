@@ -122,12 +122,14 @@ User answer, summarized:
 - Faith is ultimately agreeing with the truth about God's character.
 - It is agreeing with who God is as a person and what He values.
 - By extension, faith includes agreeing with what God has done for that person personally by dying for them on the cross.
+- If God is ultimate reality and faithful presence, unbelief distorts reality, distances a soul from the truth, and furthers a soul's state of delusion.
 
 Working implication:
 
 - Study faith as personal trust/alignment with God's revealed character, not merely abstract doctrinal assent.
 - Give close attention to passages where faith is connected to knowing God, receiving testimony, trusting Christ, and believing God's love.
 - Track the relationship between faith, truth, personal assurance, and the cross.
+- Study unbelief as distortion of reality and distance from truth, not merely lack of information.
 
 ## Scripture
 
