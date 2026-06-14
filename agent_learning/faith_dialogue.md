@@ -476,12 +476,19 @@ User answer, summarized:
 - God cannot be ascended to, intellectualized, or merely mused about.
 - God must be personally encountered.
 - That encounter starts and ends at the cross.
+- To know Jesus, as opposed to merely knowing correct things about Him, is to know God's character.
+- This includes knowing that God is gracious, merciful, and faithful to forgive.
+- God values free will and does not force Himself on anyone.
+- God establishes and upholds the truth.
+- The truth is where grace and mercy are found.
+- A person must know God personally and relationally.
 
 Working implication:
 
 - Study knowing God as personal encounter, not merely conceptual knowledge.
 - Treat the cross as the central revelation of God's person, values, character, and desire.
 - Give special attention to John, 1 John, the Gospels' crucifixion narratives, Paul's theology of the cross, and passages about seeing/knowing God in Christ.
+- Study knowing Jesus as knowing God's character in grace, mercy, forgiveness, freedom, truth, and relational encounter.
 
 ## Resurrection
 
