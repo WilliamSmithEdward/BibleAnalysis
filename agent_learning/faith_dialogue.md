@@ -921,6 +921,19 @@ Working implication:
 - Track how Scripture connects maturity with fullness in Christ, rest, freedom, wisdom, and ceasing from self-justifying striving.
 - Give special attention to John 19:30, Matthew 11:28-30, Romans 8, Galatians 5, Colossians 2, Hebrews 4, and 2 Peter 1.
 
+## Humility
+
+User answer, summarized:
+
+- Humility is believing Jesus Christ is sufficient for the user, the user's life, and everything the user needs.
+- Jesus delivers in abundance: more than the user needs, faithfully, eternally, and always.
+
+Working implication:
+
+- Study humility as confidence in Christ's sufficiency, not self-hatred or denial of gifts.
+- Track how Scripture connects humility with dependence, abundance in Christ, gratitude, freedom from boasting, and rest.
+- Give special attention to Philippians 2, John 15, 2 Corinthians 12, Colossians 2, James 4, and 1 Peter 5.
+
 ## Good Works
 
 User answer, summarized:
