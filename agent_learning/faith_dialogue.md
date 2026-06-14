@@ -510,12 +510,14 @@ User answer, summarized:
 - Human death is a universal concern: the running statistic is 1 out of 1.
 - God fully conquered death and has mastery over it.
 - Physical death is solved for and a non-issue from the standpoint of God's power.
+- The resurrection reveals that God has ultimate authority and ultimate restraint.
 
 Working implication:
 
 - Study the resurrection as God's public demonstration of mastery over physical death.
 - Track how Scripture connects resurrection with assurance, hope, eternal life, bodily renewal, and the defeat of death.
 - Give special attention to the resurrection narratives, 1 Corinthians 15, Romans 6, Romans 8, John 11, and Revelation.
+- Study resurrection authority together with divine restraint, not as domination.
 
 ## Kingdom of God
 
