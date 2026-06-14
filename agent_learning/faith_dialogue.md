@@ -332,12 +332,14 @@ User answer, summarized:
 
 - Sanctification is trusting that Jesus Christ and His work on the cross are sufficient for all aspects of life and peace with God.
 - Sanctification is integrating that reality, and its downstream implications for life, into every facet of awareness, motivation, intention, emotion, and mental state.
+- The part of a person that tends to resist this integration most is the part that wants to be loved and accepted by the world for the things, dynamics, aspects, and elements that are of and in the world.
 
 Working implication:
 
 - Study sanctification as integration of Christ's sufficiency into the whole person, not merely external moral improvement.
 - Track how Scripture connects sanctification with union with Christ, renewal of the mind, freedom, peace, fruit of the Spirit, and living from the finished work of the cross.
 - Give special attention to Romans 6-8, Romans 12:1-2, John 15, Galatians 5, Colossians 2-3, Hebrews 10, and 1 Thessalonians 5.
+- Study world-love and worldly acceptance as resistance to integrating Christ's sufficiency.
 
 ## Sin
 
