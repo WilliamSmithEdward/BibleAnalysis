@@ -596,6 +596,19 @@ Working implication:
 - Keep God's greatness, honor, praise, and glory connected to His rescuing love rather than detached from it.
 - Track this storyline from creation, fall, promise, Israel, Christ, cross, resurrection, Spirit, church, judgment, and new creation.
 
+## Purpose Of Present Life
+
+User answer, summarized:
+
+- Present life is a provisioned "free will" zone.
+- In it, people are free to choose what is most important to them.
+
+Working implication:
+
+- Study present life as an arena where desire, worship, allegiance, love, and free will become visible.
+- Track Scripture's themes of choice, treasure, heart, worship, testing, invitation, and revelation of what a person loves.
+- Give special attention to Genesis 2-3, Deuteronomy 30, Joshua 24, the Gospels, Romans 1, and Revelation.
+
 ## Central Passage
 
 User answer:
