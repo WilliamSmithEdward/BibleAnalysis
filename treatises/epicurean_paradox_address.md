@@ -202,7 +202,7 @@ The paradox often treats God's non-intervention as proof that God either lacks p
 
 Christian theology has another category: divine restraint.
 
-God can be all-powerful while exercising restraint. He can hold total authority and still refuse domination. He can override creaturely will and still preserve the conditions that make love possible.
+God can be all-powerful while exercising restraint. He can hold total authority and still refuse domination. He has the power to override creaturely will, yet He chooses restraint because love requires real freedom.
 
 This kind of restraint reveals character.
 
