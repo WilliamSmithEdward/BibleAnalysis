@@ -55,52 +55,66 @@ God is sovereign enough to provision a free-will zone.
 The following flowchart represents the answer this treatise is developing as a personal path through the question. It does not explain every particular wound or tragedy. It asks where the soul can stand when evil is real, grief is honest, and the accusation rises that God must be either weak or unwilling. The Christian path does not begin by denying pain. It begins by telling the truth, seeking protection where needed, and then looking to Jesus Christ.
 
 ```mermaid
-flowchart TD
-    A["I encounter real evil or suffering"]
-    B["Tell the truth<br/>Evil is evil, grief is real,<br/>and denial is not faith"]
-    C{"Is anyone in<br/>immediate danger?"}
-    D["Seek protection, help,<br/>justice, and practical care"]
-    E["Bring the question<br/>honestly before God"]
+flowchart TB
+    subgraph S1["1. Face Reality"]
+        A["Encounter real evil<br/>or suffering"]
+        B["Tell the truth<br/>Evil is evil; grief is real;<br/>denial is not faith"]
+        C{"Immediate danger?"}
+        D["Seek protection, help,<br/>justice, and practical care"]
+        E["Bring the question<br/>honestly before God"]
+        A --> B --> C
+        C -->|Yes| D --> E
+        C -->|No| E
+    end
 
-    F{"What assumption is<br/>driving my conclusion?"}
-    G["Hidden premise<br/>If God is good, He must prevent<br/>every evil immediately"]
-    H{"Will I test that premise<br/>in light of love, freedom,<br/>and the cross?"}
+    subgraph S2["2. Examine The Premise"]
+        F{"What premise is<br/>driving the accusation?"}
+        G["Hidden premise<br/>A good God must prevent<br/>every evil immediately"]
+        H{"Will I test that premise<br/>against love, freedom,<br/>and the cross?"}
+        I["If no<br/>The paradox remains powerful:<br/>God seems weak or unwilling"]
+        J["Lament honestly<br/>Bring grief and accusation<br/>into the light"]
+        K["Fuller frame<br/>Real love requires real freedom;<br/>real freedom allows refusal<br/>and consequences"]
+        L{"Could divine restraint be<br/>patience and love,<br/>not indifference?"}
+        M["If no<br/>The only acceptable God becomes<br/>one who overrides freedom"]
+        N["But coerced goodness<br/>is not love"]
+        O["Return with humility<br/>and keep asking honestly"]
+        F --> G --> H
+        H -->|No| I --> J
+        H -->|Yes| K --> L
+        L -->|No| M --> N --> O
+    end
 
-    I["If not, the paradox remains<br/>emotionally powerful:<br/>God seems weak or unwilling"]
-    J["Lament honestly<br/>Do not fake certainty;<br/>bring grief and accusation into the light"]
+    subgraph S3["3. Look To Jesus"]
+        P["Look to Jesus Christ"]
+        Q["Incarnation<br/>God enters suffering"]
+        R["Cross<br/>God bears evil, judges sin,<br/>and offers mercy"]
+        S["Resurrection<br/>God conquers death"]
+        P --> Q --> R --> S
+    end
 
-    K["A fuller frame<br/>Real love requires real freedom;<br/>real freedom allows real refusal<br/>and real consequences"]
-    L{"Could divine restraint be<br/>love and patience,<br/>not weakness or indifference?"}
+    subgraph S4["4. Decide Where To Stand"]
+        T{"Will I trust God's character<br/>before seeing the full resolution?"}
+        U["Not yet<br/>Lament, ask, grieve,<br/>receive wise presence,<br/>and keep looking to Jesus"]
+        V["Yes<br/>Rest in the truth that God is working<br/>all things toward good"]
+        T -->|Not yet| U
+        T -->|Yes| V
+    end
 
-    M["If not, the only acceptable God<br/>becomes one who overrides freedom"]
-    N["But coerced goodness<br/>is not love"]
-    O["Return to the question<br/>with humility"]
+    subgraph S5["5. Walk In Hope"]
+        W["Walk it out<br/>Resist evil, protect the vulnerable,<br/>forgive without denying truth,<br/>and love neighbors"]
+        X["Hope<br/>Final judgment brings all things<br/>into the light of truth"]
+        Y["New creation<br/>Death, mourning, crying,<br/>and pain are removed"]
+        Z["Conclusion<br/>Evil is real, but not ultimate.<br/>Jesus Christ is greater."]
+        W --> X --> Y --> Z
+    end
 
-    P["Look to Jesus Christ"]
-    Q["Incarnation<br/>God enters suffering"]
-    R["Cross<br/>God bears evil, judges sin,<br/>and offers mercy"]
-    S["Resurrection<br/>God conquers death"]
-
-    T{"Personal decision<br/>Will I trust God's character<br/>before I see the full resolution?"}
-    U["Not yet<br/>Lament, ask, grieve,<br/>and keep looking at Jesus"]
-    V["Yes<br/>Rest in the truth that God is working<br/>all things toward good"]
-
-    W["Walk it out<br/>Resist evil, protect the vulnerable,<br/>forgive without denying truth,<br/>and love neighbors"]
-    X["Hope<br/>Final judgment brings all things<br/>into the light of truth"]
-    Y["New creation<br/>Death, mourning, crying,<br/>and pain are removed"]
-    Z["Conclusion<br/>Evil is real, but not ultimate.<br/>Jesus Christ is greater."]
-
-    A --> B --> C
-    C -->|Yes| D --> E
-    C -->|No| E
-    E --> F --> G --> H
-    H -->|No| I --> J --> P
-    H -->|Yes| K --> L
-    L -->|No| M --> N --> O --> L
+    E --> F
+    J --> P
     L -->|Yes| P
-    P --> Q --> R --> S --> T
-    T -->|Not yet| U --> P
-    T -->|Yes| V --> W --> X --> Y --> Z
+    O --> P
+    S --> T
+    U -.-> P
+    V --> W
 
     classDef question fill:#f6f8fa,stroke:#57606a,stroke-width:1px,color:#24292f;
     classDef care fill:#fff8c5,stroke:#9a6700,stroke-width:1px,color:#3b2300;
@@ -111,9 +125,9 @@ flowchart TD
 
     class C,F,H,L,T question;
     class A,B,D,E care;
-    class I,J,M,N,O grief;
+    class I,J,M,N,O,U grief;
     class G,K discern;
-    class P,Q,R,S,U,V,W christ;
+    class P,Q,R,S,V,W christ;
     class X,Y,Z hope;
 ```
 
