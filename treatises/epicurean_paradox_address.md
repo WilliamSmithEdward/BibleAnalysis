@@ -73,9 +73,9 @@ flowchart TB
     subgraph S1["1. Start Honestly"]
         A["I encounter real evil<br/>or suffering"]
         B["I refuse shallow answers<br/>Pain is real; evil should not<br/>be minimized"]
-        C{"Immediate danger?"}
-        D["Seek protection, help,<br/>justice, and practical care"]
-        E["Then ask the larger question<br/>Does evil make God impossible?"]
+        C{"Is there<br/>immediate danger?"}
+        D["I seek protection, help,<br/>justice, and practical care"]
+        E["Then I ask the larger question<br/>Does evil make God impossible?"]
         A --> B --> C
         C -->|Yes| D --> E
         C -->|No| E
@@ -97,16 +97,16 @@ flowchart TB
 
     subgraph S3["3. Test The Logical Claim"]
         L{"What must be true<br/>for evil to logically disprove God?"}
-        M["Assumption 1<br/>Goodness must mean preventing<br/>every evil immediately"]
-        M1["Implication<br/>Goodness leaves little room for<br/>patience, repentance, freedom,<br/>or redemptive history"]
+        M["Assumption 1<br/>Goodness must mean immediate<br/>prevention of every evil"]
+        M1["Implication<br/>Patience, repentance, freedom,<br/>and redemptive history become<br/>morally suspect"]
         N["Assumption 2<br/>Power must mean coercive control<br/>over every creaturely choice"]
         N1["Implication<br/>Power becomes domination;<br/>love is protected by override<br/>rather than invitation"]
-        O["Assumption 3<br/>A world with real love could exist<br/>without real freedom or refusal"]
+        O["Assumption 3<br/>Real love could exist<br/>without real freedom or refusal"]
         O1["Implication<br/>Love, trust, consent,<br/>and moral responsibility lose<br/>their real weight"]
         P{"Are these assumptions<br/>unavoidable?"}
-        Q["If yes<br/>The paradox remains a serious objection;<br/>do not force belief"]
-        R["If no<br/>The paradox is not decisive;<br/>consider a wider frame"]
-        S["Moral pressure point<br/>If I remain atheist, how do I account<br/>for the weight of<br/>'this should not be'?"]
+        Q["If yes<br/>The paradox remains a serious objection;<br/>I should not force belief"]
+        R["If no<br/>The paradox is not decisive;<br/>I can consider a wider frame"]
+        S["Moral pressure point<br/>If I remain an atheist, how do I account<br/>for the weight of<br/>'this should not be'?"]
         L --> M --> M1 --> P
         L --> N --> N1 --> P
         L --> O --> O1 --> P
@@ -116,7 +116,7 @@ flowchart TB
 
     subgraph S4["4. Consider The Christian Frame"]
         T["Freedom frame<br/>Real love requires real freedom;<br/>real freedom allows real refusal<br/>and real consequences"]
-        U{"Could divine restraint be<br/>patience, love, and respect for freedom,<br/>not weakness or indifference?"}
+        U{"Could divine restraint express<br/>patience, love, and respect for freedom,<br/>not weakness or indifference?"}
         V["Honest objection<br/>But why this much pain,<br/>and why these wounds?"]
         W["Christian humility<br/>The answer does not pretend<br/>to know every reason"]
         X["Christian claim<br/>God answers evil most fully<br/>by acting in Jesus Christ"]
@@ -131,7 +131,7 @@ flowchart TB
         AA["Resurrection<br/>God conquers death"]
         AB{"Does Jesus make trust in God<br/>morally and existentially possible?"}
         AC["Not yet<br/>Keep asking, lamenting,<br/>and looking honestly"]
-        AD["Yes, or maybe<br/>Move from abstract God-question<br/>toward the person of Jesus"]
+        AD["Yes or maybe<br/>Move from the abstract question about God<br/>toward the person of Jesus"]
         Y --> Z --> AA --> AB
         AB -->|Not yet| AC
         AB -->|Yes or maybe| AD
