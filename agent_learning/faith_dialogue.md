@@ -1262,3 +1262,19 @@ Working implication:
 - Give special attention to John 1:29, John 16:33, John 19:30, Romans 8, Colossians 1:15-20, Hebrews 2, Hebrews 4, Revelation 21-22, and the Psalms of refuge.
 - Study rest not as denial of suffering, but as trust that Jesus has dealt with sin at the root and will resolve both personal and cosmic trials in perfect goodness.
 - Clarifying answer: the user trusts that Jesus will resolve everything in the best possible way because the user knows Him and who He is as a person.
+
+## Knowing Jesus Personally
+
+User answer, summarized:
+
+- The user distinguishes knowing Jesus from merely knowing true things about Jesus through personal belonging.
+- Jesus Christ is the user's God.
+- The user understands Jesus to have personally claimed them as His son.
+- This sonship is not merely a doctrine to the user, but a personally received reality.
+
+Working implication:
+
+- Study personal knowledge of Jesus through adoption, belonging, name, sonship, witness of the Spirit, and direct relationship with God.
+- Track how Scripture distinguishes knowledge about God from knowing God relationally.
+- Give special attention to John 10, John 17:3, Romans 8:14-17, Galatians 4:4-7, Ephesians 1, Philippians 3, 1 John, and Revelation 3:12.
+- Study assurance as personal belonging to Jesus, not merely intellectual certainty about Christian propositions.
