@@ -71,23 +71,23 @@ The chart is not meant to prove everything by itself. It is a path for examining
 ```mermaid
 flowchart TB
     subgraph S1["1. Start Honestly"]
-        A["I encounter real evil<br/>or suffering"]
-        B["I refuse shallow answers<br/>Pain is real; evil should not<br/>be minimized"]
+        A["<b>I encounter real evil</b><br/>or suffering"]
+        B["<b>I refuse shallow answers</b><br/>Pain is real; evil should not<br/>be minimized"]
         C{"Is there<br/>immediate danger?"}
-        D["I seek protection, help,<br/>justice, and practical care"]
-        E["Then I ask the larger question<br/>Does evil make God impossible?"]
+        D["<b>I seek protection</b><br/>help, justice, and practical care"]
+        E["<b>Then I ask the larger question</b><br/>Does evil make God impossible?"]
         A --> B --> C
         C -->|Yes| D --> E
         C -->|No| E
     end
 
     subgraph S2["2. Name The Objection"]
-        F["Epicurean objection<br/>If God is good and powerful,<br/>why does He not stop evil?"]
+        F["<b>Epicurean objection</b><br/>If God is good and powerful,<br/>why does He not stop evil?"]
         G{"What kind of objection<br/>is this for me?"}
-        H["Logical objection<br/>God and evil cannot both exist"]
-        I["Evidential objection<br/>This much suffering makes God<br/>seem unlikely"]
-        J["Existential wound<br/>I am angry, grieving,<br/>or unable to trust"]
-        K["Mixed objection<br/>More than one level is active"]
+        H["<b>Logical objection</b><br/>God and evil cannot both exist"]
+        I["<b>Evidential objection</b><br/>This much suffering makes God<br/>seem unlikely"]
+        J["<b>Existential wound</b><br/>I am angry, grieving,<br/>or unable to trust"]
+        K["<b>Mixed objection</b><br/>More than one level is active"]
         F --> G
         G --> H
         G --> I
@@ -97,16 +97,16 @@ flowchart TB
 
     subgraph S3["3. Test The Logical Claim"]
         L{"What must be true<br/>for evil to logically disprove God?"}
-        M["Assumption 1<br/>Goodness must mean immediate<br/>prevention of every evil"]
-        M1["Implication<br/>Patience, repentance, freedom,<br/>and redemptive history become<br/>morally suspect"]
-        N["Assumption 2<br/>Power must mean coercive control<br/>over every creaturely choice"]
-        N1["Implication<br/>Power becomes domination;<br/>love is protected by override<br/>rather than invitation"]
-        O["Assumption 3<br/>Real love could exist<br/>without real freedom or refusal"]
-        O1["Implication<br/>Love, trust, consent,<br/>and moral responsibility lose<br/>their real weight"]
+        M["<b>Assumption 1</b><br/>Goodness must mean immediate<br/>prevention of every evil"]
+        M1["<b>Implication</b><br/>Patience, repentance, freedom,<br/>and redemptive history become<br/>morally suspect"]
+        N["<b>Assumption 2</b><br/>Power must mean coercive control<br/>over every creaturely choice"]
+        N1["<b>Implication</b><br/>Power becomes domination;<br/>love is protected by override<br/>rather than invitation"]
+        O["<b>Assumption 3</b><br/>Real love could exist<br/>without real freedom or refusal"]
+        O1["<b>Implication</b><br/>Love, trust, consent,<br/>and moral responsibility lose<br/>their real weight"]
         P{"Are these assumptions<br/>unavoidable?"}
-        Q["If yes<br/>The paradox remains a serious objection;<br/>I should not force belief"]
-        R["If no<br/>The paradox is not decisive;<br/>I can consider a wider frame"]
-        S["Moral pressure point<br/>If I remain an atheist, how do I account<br/>for the weight of<br/>'this should not be'?"]
+        Q["<b>If yes</b><br/>The paradox remains a serious objection;<br/>I should not force belief"]
+        R["<b>If no</b><br/>The paradox is not decisive;<br/>I can consider a wider frame"]
+        S["<b>Moral pressure point</b><br/>If I remain an atheist, how do I account<br/>for the weight of<br/>'this should not be'?"]
         L --> M --> M1 --> P
         L --> N --> N1 --> P
         L --> O --> O1 --> P
@@ -115,23 +115,23 @@ flowchart TB
     end
 
     subgraph S4["4. Consider The Christian Frame"]
-        T["Freedom frame<br/>Real love requires real freedom;<br/>real freedom allows real refusal<br/>and real consequences"]
+        T["<b>Freedom frame</b><br/>Real love requires real freedom;<br/>real freedom allows real refusal<br/>and real consequences"]
         U{"Could divine restraint express<br/>patience, love, and respect for freedom,<br/>not weakness or indifference?"}
-        V["Honest objection<br/>But why this much pain,<br/>and why these wounds?"]
-        W["Christian humility<br/>The answer does not pretend<br/>to know every reason"]
-        X["Christian claim<br/>God answers evil most fully<br/>by acting in Jesus Christ"]
+        V["<b>Honest objection</b><br/>But why this much pain,<br/>and why these wounds?"]
+        W["<b>Christian humility</b><br/>The answer does not pretend<br/>to know every reason"]
+        X["<b>Christian claim</b><br/>God answers evil most fully<br/>by acting in Jesus Christ"]
         T --> U
         U -->|No| V --> W --> X
         U -->|Yes| X
     end
 
     subgraph S5["5. Examine Jesus"]
-        Y["Incarnation<br/>God enters suffering"]
-        Z["Cross<br/>God bears evil, judges sin,<br/>and offers mercy"]
-        AA["Resurrection<br/>God conquers death"]
+        Y["<b>Incarnation</b><br/>God enters suffering"]
+        Z["<b>Cross</b><br/>God bears evil, judges sin,<br/>and offers mercy"]
+        AA["<b>Resurrection</b><br/>God conquers death"]
         AB{"Does Jesus make trust in God<br/>morally and existentially possible?"}
-        AC["Not yet<br/>Keep asking, lamenting,<br/>and looking honestly"]
-        AD["Yes or maybe<br/>Move from the abstract question about God<br/>toward the person of Jesus"]
+        AC["<b>Not yet</b><br/>Keep asking, lamenting,<br/>and looking honestly"]
+        AD["<b>Yes or maybe</b><br/>Move from the abstract question about God<br/>toward the person of Jesus"]
         Y --> Z --> AA --> AB
         AB -->|Not yet| AC
         AB -->|Yes or maybe| AD
@@ -139,12 +139,12 @@ flowchart TB
 
     subgraph S6["6. Choose The Next Honest Step"]
         AE{"What response is honest now?"}
-        AF["Reject<br/>I do not find this coherent"]
-        AG["Suspend judgment<br/>I need more light"]
-        AH["Seek<br/>Jesus, if You are real,<br/>show me who You are"]
-        AI["Trust<br/>God is good, powerful,<br/>and redemptive in Christ"]
-        AJ["Walk accordingly<br/>Resist evil, protect the vulnerable,<br/>seek truth, and practice mercy"]
-        AK["Hope<br/>Final judgment and new creation<br/>answer evil without denying it"]
+        AF["<b>Reject</b><br/>I do not find this coherent"]
+        AG["<b>Suspend judgment</b><br/>I need more light"]
+        AH["<b>Seek</b><br/>Jesus, if You are real,<br/>show me who You are"]
+        AI["<b>Trust</b><br/>God is good, powerful,<br/>and redemptive in Christ"]
+        AJ["<b>Walk accordingly</b><br/>Resist evil, protect the vulnerable,<br/>seek truth, and practice mercy"]
+        AK["<b>Hope</b><br/>Final judgment and new creation<br/>answer evil without denying it"]
         AE --> AF
         AE --> AG
         AE --> AH
