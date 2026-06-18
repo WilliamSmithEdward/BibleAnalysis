@@ -1245,3 +1245,19 @@ Working implication:
 - Track how Scripture connects fear with God's abiding presence and covenant faithfulness.
 - Give special attention to Deuteronomy 31:6-8, Joshua 1:9, Psalm 23, Psalm 46, Isaiah 41:10, Matthew 28:20, John 14, Romans 8:31-39, Hebrews 13:5, and Revelation 21.
 - Clarifying answer: believing that God will never leave or forsake the user makes it possible for them to rest and trust that God is working in the situation, even when the situation is outside their control.
+
+## Rest As Cross-Grounded Trust
+
+User answer, summarized:
+
+- Rest is trusting that Jesus Christ died for the sin of the world on the cross.
+- Rest includes trusting that Jesus is willing and more than able to resolve the trials and tribulations of the user's life.
+- Rest also includes trusting that Jesus is willing and more than able to resolve the trials and tribulations of the world collectively.
+- Jesus will resolve these things in the best way possible.
+
+Working implication:
+
+- Study rest as cross-grounded trust in the willingness and ability of Jesus Christ.
+- Track how Scripture connects the cross, sin of the world, tribulation, providence, final restoration, judgment, and new creation.
+- Give special attention to John 1:29, John 16:33, John 19:30, Romans 8, Colossians 1:15-20, Hebrews 2, Hebrews 4, Revelation 21-22, and the Psalms of refuge.
+- Study rest not as denial of suffering, but as trust that Jesus has dealt with sin at the root and will resolve both personal and cosmic trials in perfect goodness.
