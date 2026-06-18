@@ -50,56 +50,71 @@ It is an expression of sovereignty.
 
 God is sovereign enough to provision a free-will zone.
 
-## A More Accurate Flowchart
+## A Personal Decision Flow
 
-The following flowchart represents the answer this treatise is developing. It does not explain every particular wound or tragedy. Instead, it maps the larger Christian claim: God is not absent, weak, or morally indifferent. God is sovereign, self-restrained, freedom-honoring, redemptive, and committed to final restoration in Jesus Christ.
+The following flowchart represents the answer this treatise is developing as a personal path through the question. It does not explain every particular wound or tragedy. It asks where the soul can stand when evil is real, grief is honest, and the accusation rises that God must be either weak or unwilling. The Christian path does not begin by denying pain. It begins by telling the truth, seeking protection where needed, and then looking to Jesus Christ.
 
 ```mermaid
 flowchart TD
-    A["The Epicurean Paradox<br/>Why does evil exist if God is good and all-powerful?"]
-    B["Hidden assumption<br/>Goodness must mean immediate prevention of every evil"]
-    C["More accurate Christian frame<br/>God's goodness is not only prevention,<br/>but also freedom, patience, redemption,<br/>judgment, and final restoration"]
+    A["I encounter real evil or suffering"]
+    B["Tell the truth<br/>Evil is evil, grief is real,<br/>and denial is not faith"]
+    C{"Is anyone in<br/>immediate danger?"}
+    D["Seek protection, help,<br/>justice, and practical care"]
+    E["Bring the question<br/>honestly before God"]
 
-    D["God's character<br/>Love, truth, justice, mercy, wisdom, power"]
-    E["Sovereign decree<br/>God provisions a real creation with real creaturely freedom"]
-    F["Real freedom<br/>Makes uncoerced love, trust, consent,<br/>and relationship possible"]
-    G["Real refusal<br/>Creatures can reject God, distort truth,<br/>and choose self-rule"]
-    H["Fallen reality<br/>Moral evil, systemic evil, death,<br/>natural suffering, and creation's groaning"]
+    F{"What assumption is<br/>driving my conclusion?"}
+    G["Hidden premise<br/>If God is good, He must prevent<br/>every evil immediately"]
+    H{"Will I test that premise<br/>in light of love, freedom,<br/>and the cross?"}
 
-    I{"Why not override<br/>all evil immediately?"}
-    J["Coercive override<br/>would erase meaningful freedom,<br/>collapse history, and end the space<br/>where love can be freely received or refused"]
-    K["Divine restraint<br/>God permits, restrains, exposes,<br/>and delays final judgment without approving evil"]
+    I["If not, the paradox remains<br/>emotionally powerful:<br/>God seems weak or unwilling"]
+    J["Lament honestly<br/>Do not fake certainty;<br/>bring grief and accusation into the light"]
 
-    L["Incarnation<br/>God enters creation in Jesus Christ"]
-    M["Cross<br/>Evil is exposed, sin is judged,<br/>mercy is offered, and God bears suffering"]
-    N["Resurrection<br/>Death is conquered and final restoration is guaranteed"]
+    K["A fuller frame<br/>Real love requires real freedom;<br/>real freedom allows real refusal<br/>and real consequences"]
+    L{"Could divine restraint be<br/>love and patience,<br/>not weakness or indifference?"}
 
-    O["Present age<br/>The Spirit convicts, reorients souls to Christ,<br/>forms the church, and God works all things toward good"]
-    P["Final judgment<br/>All deception, injustice, and distortion<br/>are brought into the full light of truth"]
-    Q["New creation<br/>Death, mourning, crying, and pain are removed"]
+    M["If not, the only acceptable God<br/>becomes one who overrides freedom"]
+    N["But coerced goodness<br/>is not love"]
+    O["Return to the question<br/>with humility"]
 
-    R["Conclusion<br/>Evil exists for a time, but it is not ultimate.<br/>God is able and good, and His answer is not domination<br/>but redemption through Jesus Christ."]
+    P["Look to Jesus Christ"]
+    Q["Incarnation<br/>God enters suffering"]
+    R["Cross<br/>God bears evil, judges sin,<br/>and offers mercy"]
+    S["Resurrection<br/>God conquers death"]
+
+    T{"Personal decision<br/>Will I trust God's character<br/>before I see the full resolution?"}
+    U["Not yet<br/>Lament, ask, grieve,<br/>and keep looking at Jesus"]
+    V["Yes<br/>Rest in the truth that God is working<br/>all things toward good"]
+
+    W["Walk it out<br/>Resist evil, protect the vulnerable,<br/>forgive without denying truth,<br/>and love neighbors"]
+    X["Hope<br/>Final judgment brings all things<br/>into the light of truth"]
+    Y["New creation<br/>Death, mourning, crying,<br/>and pain are removed"]
+    Z["Conclusion<br/>Evil is real, but not ultimate.<br/>Jesus Christ is greater."]
 
     A --> B --> C
-    C --> D --> E --> F --> G --> H --> I
-    I --> J
-    I --> K
-    K --> L --> M --> N --> O --> P --> Q --> R
-    J -. "God refuses to make love impossible by coercion" .-> K
+    C -->|Yes| D --> E
+    C -->|No| E
+    E --> F --> G --> H
+    H -->|No| I --> J --> P
+    H -->|Yes| K --> L
+    L -->|No| M --> N --> O --> L
+    L -->|Yes| P
+    P --> Q --> R --> S --> T
+    T -->|Not yet| U --> P
+    T -->|Yes| V --> W --> X --> Y --> Z
 
     classDef question fill:#f6f8fa,stroke:#57606a,stroke-width:1px,color:#24292f;
-    classDef frame fill:#eaf5ff,stroke:#0969da,stroke-width:1px,color:#0a3069;
-    classDef creation fill:#fff8c5,stroke:#9a6700,stroke-width:1px,color:#3b2300;
-    classDef fall fill:#ffebe9,stroke:#cf222e,stroke-width:1px,color:#82071e;
+    classDef care fill:#fff8c5,stroke:#9a6700,stroke-width:1px,color:#3b2300;
+    classDef grief fill:#ffebe9,stroke:#cf222e,stroke-width:1px,color:#82071e;
+    classDef discern fill:#eaf5ff,stroke:#0969da,stroke-width:1px,color:#0a3069;
     classDef christ fill:#dafbe1,stroke:#1a7f37,stroke-width:1px,color:#116329;
-    classDef final fill:#fbefff,stroke:#8250df,stroke-width:1px,color:#512a97;
+    classDef hope fill:#fbefff,stroke:#8250df,stroke-width:1px,color:#512a97;
 
-    class A,B,I,J question;
-    class C,D frame;
-    class E,F creation;
-    class G,H fall;
-    class K,L,M,N,O christ;
-    class P,Q,R final;
+    class C,F,H,L,T question;
+    class A,B,D,E care;
+    class I,J,M,N,O grief;
+    class G,K discern;
+    class P,Q,R,S,U,V,W christ;
+    class X,Y,Z hope;
 ```
 
 ## Divine Restraint Is Not Divine Weakness
