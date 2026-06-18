@@ -1230,3 +1230,17 @@ Working implication:
 - Study divine self-restraint as a possible expression of love, truth, and freedom rather than as divine weakness or absence.
 - Study how a provisioned free-will zone relates to the user's broader theology of love requiring liberty, free will, uncoerced consent, and real relationship with God.
 - Clarifying answer: the user's assurance rests most deeply in who God is as a person.
+
+## God's Heart In Fear
+
+User answer, summarized:
+
+- When the user is afraid, the deepest thing God wants them to know about His heart is that He is with them.
+- God is with the user always.
+- God will never leave or forsake the user, ever, for any reason.
+
+Working implication:
+
+- Study divine presence as the core of reassurance, not merely explanation, control, or immediate resolution.
+- Track how Scripture connects fear with God's abiding presence and covenant faithfulness.
+- Give special attention to Deuteronomy 31:6-8, Joshua 1:9, Psalm 23, Psalm 46, Isaiah 41:10, Matthew 28:20, John 14, Romans 8:31-39, Hebrews 13:5, and Revelation 21.
