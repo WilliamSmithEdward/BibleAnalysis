@@ -50,71 +50,100 @@ It is an expression of sovereignty.
 
 God is sovereign enough to provision a free-will zone.
 
-## A Personal Decision Flow
+## A Personal Decision Flow For An Honest Skeptic
 
-The following flowchart represents the answer this treatise is developing as a personal path through the question. It does not explain every particular wound or tragedy. It asks where the soul can stand when evil is real, grief is honest, and the accusation rises that God must be either weak or unwilling. The Christian path does not begin by denying pain. It begins by telling the truth, seeking protection where needed, and then looking to Jesus Christ.
+The following flowchart approaches the question from the perspective of an atheist, agnostic, or honest skeptic wrestling with the question, "Is there a God?" It does not ask the reader to fake belief or minimize suffering. It begins where many people actually begin: evil is real, pain is real, and the existence of suffering feels like evidence against God.
+
+The chart is not meant to prove everything by itself. It is a path for examining whether the Epicurean paradox actually disproves God, or whether the Christian answer in Jesus Christ remains coherent, morally serious, and personally worth seeking.
 
 ```mermaid
 flowchart TB
-    subgraph S1["1. Face Reality"]
-        A["Encounter real evil<br/>or suffering"]
-        B["Tell the truth<br/>Evil is evil; grief is real;<br/>denial is not faith"]
+    subgraph S1["1. Start Honestly"]
+        A["I encounter real evil<br/>or suffering"]
+        B["I refuse shallow answers<br/>Pain is real; evil should not<br/>be minimized"]
         C{"Immediate danger?"}
         D["Seek protection, help,<br/>justice, and practical care"]
-        E["Bring the question<br/>honestly before God"]
+        E["Then ask the larger question<br/>Does evil make God impossible?"]
         A --> B --> C
         C -->|Yes| D --> E
         C -->|No| E
     end
 
-    subgraph S2["2. Examine The Premise"]
-        F{"What premise is<br/>driving the accusation?"}
-        G["Hidden premise<br/>A good God must prevent<br/>every evil immediately"]
-        H{"Will I test that premise<br/>against love, freedom,<br/>and the cross?"}
-        I["If no<br/>The paradox remains powerful:<br/>God seems weak or unwilling"]
-        J["Lament honestly<br/>Bring grief and accusation<br/>into the light"]
-        K["Fuller frame<br/>Real love requires real freedom;<br/>real freedom allows refusal<br/>and consequences"]
-        L{"Could divine restraint be<br/>patience and love,<br/>not indifference?"}
-        M["If no<br/>The only acceptable God becomes<br/>one who overrides freedom"]
-        N["But coerced goodness<br/>is not love"]
-        O["Return with humility<br/>and keep asking honestly"]
-        F --> G --> H
-        H -->|No| I --> J
-        H -->|Yes| K --> L
-        L -->|No| M --> N --> O
+    subgraph S2["2. Name The Objection"]
+        F["Epicurean objection<br/>If God is good and powerful,<br/>why does He not stop evil?"]
+        G{"Which conclusion<br/>feels strongest?"}
+        H["Maybe God is not real"]
+        I["Maybe God is not good"]
+        J["Maybe God is not powerful"]
+        K["Maybe the question is unresolved,<br/>but the suffering is undeniable"]
+        F --> G
+        G --> H
+        G --> I
+        G --> J
+        G --> K
     end
 
-    subgraph S3["3. Look To Jesus"]
-        P["Look to Jesus Christ"]
-        Q["Incarnation<br/>God enters suffering"]
-        R["Cross<br/>God bears evil, judges sin,<br/>and offers mercy"]
-        S["Resurrection<br/>God conquers death"]
-        P --> Q --> R --> S
+    subgraph S3["3. Test The Hidden Assumptions"]
+        L{"What must be true<br/>for evil to disprove God?"}
+        M["Assumption 1<br/>Goodness must mean preventing<br/>every evil immediately"]
+        N["Assumption 2<br/>Power must mean coercive control<br/>over every creaturely choice"]
+        O["Assumption 3<br/>A world with real love could exist<br/>without real freedom or refusal"]
+        P{"Are these assumptions<br/>unavoidable?"}
+        Q["If yes<br/>The paradox remains a serious objection;<br/>do not force belief"]
+        R["If no<br/>The paradox is not decisive;<br/>consider a wider frame"]
+        S["Moral pressure point<br/>If I remain atheist, how do I account<br/>for the weight of<br/>'this should not be'?"]
+        L --> M --> N --> O --> P
+        P -->|Yes| Q
+        P -->|No| R --> S
     end
 
-    subgraph S4["4. Decide Where To Stand"]
-        T{"Will I trust God's character<br/>before seeing the full resolution?"}
-        U["Not yet<br/>Lament, ask, grieve,<br/>receive wise presence,<br/>and keep looking to Jesus"]
-        V["Yes<br/>Rest in the truth that God is working<br/>all things toward good"]
-        T -->|Not yet| U
-        T -->|Yes| V
+    subgraph S4["4. Consider The Christian Frame"]
+        T["Freedom frame<br/>Real love requires real freedom;<br/>real freedom allows real refusal<br/>and real consequences"]
+        U{"Could divine restraint be<br/>patience, love, and respect for freedom,<br/>not weakness or indifference?"}
+        V["Honest objection<br/>But why this much pain,<br/>and why these wounds?"]
+        W["Christian humility<br/>The answer does not pretend<br/>to know every reason"]
+        X["Christian claim<br/>God answers evil most fully<br/>by acting in Jesus Christ"]
+        T --> U
+        U -->|No| V --> W --> X
+        U -->|Yes| X
     end
 
-    subgraph S5["5. Walk In Hope"]
-        W["Walk it out<br/>Resist evil, protect the vulnerable,<br/>forgive without denying truth,<br/>and love neighbors"]
-        X["Hope<br/>Final judgment brings all things<br/>into the light of truth"]
-        Y["New creation<br/>Death, mourning, crying,<br/>and pain are removed"]
-        Z["Conclusion<br/>Evil is real, but not ultimate.<br/>Jesus Christ is greater."]
-        W --> X --> Y --> Z
+    subgraph S5["5. Examine Jesus"]
+        Y["Incarnation<br/>God enters suffering"]
+        Z["Cross<br/>God bears evil, judges sin,<br/>and offers mercy"]
+        AA["Resurrection<br/>God conquers death"]
+        AB{"Does Jesus make trust in God<br/>morally and existentially possible?"}
+        AC["Not yet<br/>Keep asking, lamenting,<br/>and looking honestly"]
+        AD["Yes, or maybe<br/>Move from abstract God-question<br/>toward the person of Jesus"]
+        Y --> Z --> AA --> AB
+        AB -->|Not yet| AC
+        AB -->|Yes or maybe| AD
+    end
+
+    subgraph S6["6. Choose The Next Honest Step"]
+        AE{"What response is honest now?"}
+        AF["Reject<br/>I do not find this coherent"]
+        AG["Suspend judgment<br/>I need more light"]
+        AH["Seek<br/>Jesus, if You are real,<br/>show me who You are"]
+        AI["Trust<br/>God is good, powerful,<br/>and redemptive in Christ"]
+        AJ["Walk accordingly<br/>Resist evil, protect the vulnerable,<br/>seek truth, and practice mercy"]
+        AK["Hope<br/>Final judgment and new creation<br/>answer evil without denying it"]
+        AE --> AF
+        AE --> AG
+        AE --> AH
+        AE --> AI --> AJ --> AK
     end
 
     E --> F
-    J --> P
-    L -->|Yes| P
-    O --> P
+    H --> L
+    I --> L
+    J --> L
+    K --> L
+    Q -.-> AE
     S --> T
-    U -.-> P
-    V --> W
+    X --> Y
+    AC -.-> AE
+    AD --> AE
 
     classDef question fill:#f6f8fa,stroke:#57606a,stroke-width:1px,color:#24292f;
     classDef care fill:#fff8c5,stroke:#9a6700,stroke-width:1px,color:#3b2300;
@@ -123,12 +152,12 @@ flowchart TB
     classDef christ fill:#dafbe1,stroke:#1a7f37,stroke-width:1px,color:#116329;
     classDef hope fill:#fbefff,stroke:#8250df,stroke-width:1px,color:#512a97;
 
-    class C,F,H,L,T question;
+    class C,G,L,P,U,AB,AE question;
     class A,B,D,E care;
-    class I,J,M,N,O,U grief;
-    class G,K discern;
-    class P,Q,R,S,V,W christ;
-    class X,Y,Z hope;
+    class F,H,I,J,K,Q,V,W,AF,AG grief;
+    class M,N,O,R,S,T discern;
+    class X,Y,Z,AA,AC,AD,AH,AI christ;
+    class AJ,AK hope;
 ```
 
 ## Divine Restraint Is Not Divine Weakness
