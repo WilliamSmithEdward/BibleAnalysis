@@ -86,13 +86,16 @@ flowchart TB
     subgraph S3["3. Test The Hidden Assumptions"]
         L{"What must be true<br/>for evil to disprove God?"}
         M["Assumption 1<br/>Goodness must mean preventing<br/>every evil immediately"]
+        M1["Implication<br/>Goodness leaves little room for<br/>patience, repentance, freedom,<br/>or redemptive history"]
         N["Assumption 2<br/>Power must mean coercive control<br/>over every creaturely choice"]
+        N1["Implication<br/>Power becomes domination;<br/>love is protected by override<br/>rather than invitation"]
         O["Assumption 3<br/>A world with real love could exist<br/>without real freedom or refusal"]
+        O1["Implication<br/>Love, trust, consent,<br/>and moral responsibility lose<br/>their real weight"]
         P{"Are these assumptions<br/>unavoidable?"}
         Q["If yes<br/>The paradox remains a serious objection;<br/>do not force belief"]
         R["If no<br/>The paradox is not decisive;<br/>consider a wider frame"]
         S["Moral pressure point<br/>If I remain atheist, how do I account<br/>for the weight of<br/>'this should not be'?"]
-        L --> M --> N --> O --> P
+        L --> M --> M1 --> N --> N1 --> O --> O1 --> P
         P -->|Yes| Q
         P -->|No| R --> S
     end
@@ -149,6 +152,7 @@ flowchart TB
     classDef care fill:#fff8c5,stroke:#9a6700,stroke-width:1px,color:#3b2300;
     classDef grief fill:#ffebe9,stroke:#cf222e,stroke-width:1px,color:#82071e;
     classDef discern fill:#eaf5ff,stroke:#0969da,stroke-width:1px,color:#0a3069;
+    classDef implication fill:#fff1e5,stroke:#bc4c00,stroke-width:1px,color:#5c2e00;
     classDef christ fill:#dafbe1,stroke:#1a7f37,stroke-width:1px,color:#116329;
     classDef hope fill:#fbefff,stroke:#8250df,stroke-width:1px,color:#512a97;
 
@@ -156,9 +160,18 @@ flowchart TB
     class A,B,D,E care;
     class F,H,I,J,K,Q,V,W,AF,AG grief;
     class M,N,O,R,S,T discern;
+    class M1,N1,O1 implication;
     class X,Y,Z,AA,AC,AD,AH,AI christ;
     class AJ,AK hope;
 ```
+
+The assumption-test section is important because each premise carries a view of reality:
+
+- If goodness must always mean immediate prevention, then divine patience, creaturely freedom, repentance, and long-form redemption become morally suspect before they are examined.
+- If power must always mean coercive control, then the highest form of power is domination rather than love governed by truth, restraint, and mercy.
+- If real love can exist without real freedom or refusal, then love becomes something closer to programming, instinct, or compliance.
+- If those assumptions are unavoidable, the paradox remains a serious objection.
+- If those assumptions are not unavoidable, then evil remains a grievous reality, but it does not logically disprove God.
 
 ## Divine Restraint Is Not Divine Weakness
 
