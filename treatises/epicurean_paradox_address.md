@@ -24,6 +24,18 @@ It imagines goodness mainly as prevention.
 
 The Christian answer begins somewhere else: with creation, freedom, divine patience, the cross, resurrection, judgment, and new creation.
 
+## What This Address Does And Does Not Claim
+
+This address does not claim to explain every particular tragedy. It does not claim that evil is secretly good. It does not claim that suffering people should be satisfied with an argument. It does not claim that atheists are foolish for feeling the force of the objection. It does not claim that Christians should stop grieving, protesting injustice, or asking God hard questions.
+
+It does claim something more limited and more serious:
+
+- The Epicurean paradox is emotionally powerful because evil is real.
+- The paradox is not logically decisive unless several hidden assumptions are granted.
+- The evidential weight of evil remains serious, but Christianity offers a coherent account of freedom, fallenness, divine restraint, redemption, judgment, and final restoration.
+- The existential wound of evil cannot be healed by logic alone.
+- The Christian answer ultimately stands or falls not on an abstract defense of "God," but on the person of Jesus Christ: incarnation, cross, resurrection, Spirit, judgment, and new creation.
+
 ## A Better Framing
 
 The question is not simply:
@@ -486,9 +498,21 @@ God is good.
 
 And God is able to work even evil into a final goodness that evil itself did not intend and cannot prevent.
 
-## A Direct Answer to the Paradox
+## Direct Answers To The Three Objections
 
-Is God willing to prevent evil?
+The logical objection asks: "Do God and evil contradict each other?"
+
+Not necessarily. They contradict each other only if goodness must mean immediate prevention of every evil, power must mean coercive control over every creaturely choice, and love can exist without real freedom or refusal. If those assumptions are not unavoidable, then evil remains terrible, but it does not logically disprove God.
+
+The evidential objection asks: "Even if God and evil are not logically contradictory, does this much suffering make God unlikely?"
+
+This objection should be taken seriously. The amount, intensity, and apparent randomness of suffering are not small matters. Christianity does not answer this by saying suffering is light or obvious. It answers by offering a larger account of reality: creation is good but fallen, freedom is real but dangerous, evil is parasitic but devastating, God is patient but not passive, the cross is God's entrance into suffering, the resurrection is God's victory over death, and final judgment/new creation are God's promise that evil will not remain unresolved.
+
+The existential objection asks: "Can I trust, seek, or even want God while I am wounded by evil?"
+
+Sometimes the honest answer is, "Not yet." That answer should not be mocked. A wounded person may need safety, lament, time, wise presence, and practical care before they can engage an argument. Christianity's deepest answer here is not pressure to feel certainty. It is Jesus Himself: God with wounds, God near the grieving, God crucified, God risen, God able to receive anger and grief without being threatened by them.
+
+So is God willing to prevent evil?
 
 Yes, but His will is not limited to immediate prevention. He wills redemption, repentance, freedom, judgment, restoration, and eternal life.
 
@@ -550,7 +574,11 @@ God is inviting the wounded soul to trust Him.
 
 The Epicurean paradox is powerful because evil is real.
 
-But it is not decisive because it assumes that a good and all-powerful God must prevent all evil immediately in order to be good.
+As a logical argument, it is not decisive unless hidden assumptions about goodness, power, love, and freedom are granted.
+
+As an evidential argument, it remains serious because the amount and intensity of suffering are serious.
+
+As an existential wound, it must be approached with reverence because pain is not an abstraction.
 
 The Christian answer is that God is good, God is powerful, and God is also patient, truthful, merciful, self-restrained, freedom-honoring, and redemptive.
 
