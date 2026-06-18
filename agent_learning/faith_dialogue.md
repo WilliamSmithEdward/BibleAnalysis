@@ -1261,3 +1261,4 @@ Working implication:
 - Track how Scripture connects the cross, sin of the world, tribulation, providence, final restoration, judgment, and new creation.
 - Give special attention to John 1:29, John 16:33, John 19:30, Romans 8, Colossians 1:15-20, Hebrews 2, Hebrews 4, Revelation 21-22, and the Psalms of refuge.
 - Study rest not as denial of suffering, but as trust that Jesus has dealt with sin at the root and will resolve both personal and cosmic trials in perfect goodness.
+- Clarifying answer: the user trusts that Jesus will resolve everything in the best possible way because the user knows Him and who He is as a person.
