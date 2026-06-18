@@ -1209,3 +1209,23 @@ Working implication:
 - Track how Scripture balances service, truth, love, boundaries, courage, humility, responsibility, rest, and dependence on God.
 - Give special attention to Jesus' leadership, the apostles, pastoral instructions, wisdom literature, and passages about the body of Christ.
 - Track how Scripture honors the image of God in both the person serving and the people being served.
+
+## Sovereignty And The Free Will Zone
+
+User answer, summarized:
+
+- God is sovereign over all space, time, matter, spirit, and every realm of reality.
+- God is all-powerful, but He does not necessarily choose to exercise that power in all things.
+- God is all-knowing, but He does not necessarily choose to know everything, even though He could.
+- When God decrees that something will be, it will be, because God's nature is pure truth and the fullness of reality personified.
+- God can provision a space in reality where creatures can make autonomous decisions and feel the real weight of those decisions.
+- This provisioned space can be understood as a "free will zone."
+- God's creation of a free will zone is not a limitation of His sovereignty, but an expression of His sovereignty.
+
+Working implication:
+
+- Study sovereignty as God's ultimate authority over reality, not necessarily as maximal intervention in every event.
+- Track how Scripture holds together God's decrees, foreknowledge, providence, human responsibility, creaturely freedom, and divine restraint.
+- Give special attention to Genesis 2-3, Deuteronomy 30, Joshua 24, Job, Isaiah 46, Matthew 23:37, John 18-19, Acts 2, Romans 8-11, 1 Timothy 2:4, 2 Peter 3:9, and Revelation.
+- Study divine self-restraint as a possible expression of love, truth, and freedom rather than as divine weakness or absence.
+- Study how a provisioned free-will zone relates to the user's broader theology of love requiring liberty, free will, uncoerced consent, and real relationship with God.
