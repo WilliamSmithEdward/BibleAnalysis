@@ -1281,3 +1281,18 @@ Working implication:
 - Clarifying answer: being called Jesus' son most directly heals the user's need to be accepted by the world.
 - Clarifying answer: the world offers acceptance, status, wealth, power, and pleasure, but these are temporal and conditional, so they cannot give true life.
 - Clarifying answer: God's acceptance is unconditional without being cheap or shallow because it is entirely based on what Jesus has already done. His finished work is cemented in history, rock solid, and nothing anyone can do or say can change it. It is finished.
+
+## Unfinishedness And Striving
+
+User answer, summarized:
+
+- Paradoxically, what remains unfinished in a Christian's life is that the Christian still believes something needs to be finished.
+- The remaining issue is not that Jesus left something incomplete.
+- The remaining issue is the believer's lingering belief that something must still be completed in order for the foundation to be secure.
+
+Working implication:
+
+- Study sanctification as awakening to, integrating, and resting in the finished work of Christ, not completing what Jesus left undone.
+- Track how Scripture speaks about completion, perfection, rest, renewal, maturity, and freedom from striving.
+- Give special attention to John 19:30, Romans 6-8, Galatians 3, Galatians 5, Philippians 1:6, Colossians 2:10, Hebrews 4, Hebrews 10, and 2 Peter 1:3.
+- Study how false unfinishedness creates anxiety, self-reliance, works-righteousness, shame, and performance pressure.
