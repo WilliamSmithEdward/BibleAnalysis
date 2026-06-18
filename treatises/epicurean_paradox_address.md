@@ -71,11 +71,11 @@ flowchart TB
 
     subgraph S2["2. Name The Objection"]
         F["Epicurean objection<br/>If God is good and powerful,<br/>why does He not stop evil?"]
-        G{"Which conclusion<br/>feels strongest?"}
-        H["Maybe God is not real"]
-        I["Maybe God is not good"]
-        J["Maybe God is not powerful"]
-        K["Maybe the question is unresolved,<br/>but the suffering is undeniable"]
+        G{"What kind of objection<br/>is this for me?"}
+        H["Logical objection<br/>God and evil cannot both exist"]
+        I["Evidential objection<br/>This much suffering makes God<br/>seem unlikely"]
+        J["Existential wound<br/>I am angry, grieving,<br/>or unable to trust"]
+        K["Mixed objection<br/>More than one level is active"]
         F --> G
         G --> H
         G --> I
@@ -83,8 +83,8 @@ flowchart TB
         G --> K
     end
 
-    subgraph S3["3. Test The Hidden Assumptions"]
-        L{"What must be true<br/>for evil to disprove God?"}
+    subgraph S3["3. Test The Logical Claim"]
+        L{"What must be true<br/>for evil to logically disprove God?"}
         M["Assumption 1<br/>Goodness must mean preventing<br/>every evil immediately"]
         M1["Implication<br/>Goodness leaves little room for<br/>patience, repentance, freedom,<br/>or redemptive history"]
         N["Assumption 2<br/>Power must mean coercive control<br/>over every creaturely choice"]
@@ -141,9 +141,11 @@ flowchart TB
 
     E --> F
     H --> L
-    I --> L
-    J --> L
+    I --> V
+    J --> AC
     K --> L
+    K --> V
+    K --> AC
     Q -.-> AE
     S --> T
     X --> Y
@@ -160,12 +162,23 @@ flowchart TB
 
     class C,G,L,P,U,AB,AE question;
     class A,B,D,E care;
-    class F,H,I,J,K,Q,V,W,AF,AG grief;
+    class F,I,J,K,Q,V,W,AF,AG grief;
+    class H discern;
     class M,N,O,R,S,T discern;
     class M1,N1,O1 implication;
     class X,Y,Z,AA,AC,AD,AH,AI christ;
     class AJ,AK hope;
 ```
+
+The second stage matters because the "problem of evil" is usually three questions braided together:
+
+- The logical question: Do God and evil contradict each other?
+- The evidential question: Does the amount, intensity, and apparent randomness of suffering make God unlikely?
+- The existential question: Can I trust, seek, or even want God while I am wounded by evil?
+
+Those questions overlap, but they should not be collapsed. The logical question needs careful premise-testing. The evidential question needs a broader account of reality, freedom, history, Jesus, and final restoration. The existential question needs honesty, lament, presence, patience, and often practical care before it needs argument.
+
+A mixed objection may need all three paths at once. That is not intellectual failure. It is often what honesty looks like when the mind, conscience, and wounded heart are all awake at the same time.
 
 The assumption-test section is important because each premise carries a view of reality:
 
