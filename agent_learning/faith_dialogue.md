@@ -1311,3 +1311,4 @@ Working implication:
 - Track how Scripture connects the Spirit's conviction with truth, the cross, resurrection, repentance, communion, guidance, and walking by the Spirit.
 - Give special attention to John 14-16, Romans 8, 1 Corinthians 15:1-4, Galatians 5, Ephesians 1, Ephesians 4, Hebrews 10, and 1 John 1.
 - Study repentance as restored alignment with reality and restored communion with God, not as striving to make the foundation complete.
+- Clarifying answer: what changes first when the Holy Spirit reorients a soul to Jesus is deeply personal to the soul and the situation, rather than a fixed sequence that applies the same way every time.
