@@ -1244,3 +1244,4 @@ Working implication:
 - Study divine presence as the core of reassurance, not merely explanation, control, or immediate resolution.
 - Track how Scripture connects fear with God's abiding presence and covenant faithfulness.
 - Give special attention to Deuteronomy 31:6-8, Joshua 1:9, Psalm 23, Psalm 46, Isaiah 41:10, Matthew 28:20, John 14, Romans 8:31-39, Hebrews 13:5, and Revelation 21.
+- Clarifying answer: believing that God will never leave or forsake the user makes it possible for them to rest and trust that God is working in the situation, even when the situation is outside their control.
