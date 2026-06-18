@@ -50,6 +50,58 @@ It is an expression of sovereignty.
 
 God is sovereign enough to provision a free-will zone.
 
+## A More Accurate Flowchart
+
+The following flowchart represents the answer this treatise is developing. It does not explain every particular wound or tragedy. Instead, it maps the larger Christian claim: God is not absent, weak, or morally indifferent. God is sovereign, self-restrained, freedom-honoring, redemptive, and committed to final restoration in Jesus Christ.
+
+```mermaid
+flowchart TD
+    A["The Epicurean Paradox<br/>Why does evil exist if God is good and all-powerful?"]
+    B["Hidden assumption<br/>Goodness must mean immediate prevention of every evil"]
+    C["More accurate Christian frame<br/>God's goodness is not only prevention,<br/>but also freedom, patience, redemption,<br/>judgment, and final restoration"]
+
+    D["God's character<br/>Love, truth, justice, mercy, wisdom, power"]
+    E["Sovereign decree<br/>God provisions a real creation with real creaturely freedom"]
+    F["Real freedom<br/>Makes uncoerced love, trust, consent,<br/>and relationship possible"]
+    G["Real refusal<br/>Creatures can reject God, distort truth,<br/>and choose self-rule"]
+    H["Fallen reality<br/>Moral evil, systemic evil, death,<br/>natural suffering, and creation's groaning"]
+
+    I{"Why not override<br/>all evil immediately?"}
+    J["Coercive override<br/>would erase meaningful freedom,<br/>collapse history, and end the space<br/>where love can be freely received or refused"]
+    K["Divine restraint<br/>God permits, restrains, exposes,<br/>and delays final judgment without approving evil"]
+
+    L["Incarnation<br/>God enters creation in Jesus Christ"]
+    M["Cross<br/>Evil is exposed, sin is judged,<br/>mercy is offered, and God bears suffering"]
+    N["Resurrection<br/>Death is conquered and final restoration is guaranteed"]
+
+    O["Present age<br/>The Spirit convicts, reorients souls to Christ,<br/>forms the church, and God works all things toward good"]
+    P["Final judgment<br/>All deception, injustice, and distortion<br/>are brought into the full light of truth"]
+    Q["New creation<br/>Death, mourning, crying, and pain are removed"]
+
+    R["Conclusion<br/>Evil exists for a time, but it is not ultimate.<br/>God is able and good, and His answer is not domination<br/>but redemption through Jesus Christ."]
+
+    A --> B --> C
+    C --> D --> E --> F --> G --> H --> I
+    I --> J
+    I --> K
+    K --> L --> M --> N --> O --> P --> Q --> R
+    J -. "God refuses to make love impossible by coercion" .-> K
+
+    classDef question fill:#f6f8fa,stroke:#57606a,stroke-width:1px,color:#24292f;
+    classDef frame fill:#eaf5ff,stroke:#0969da,stroke-width:1px,color:#0a3069;
+    classDef creation fill:#fff8c5,stroke:#9a6700,stroke-width:1px,color:#3b2300;
+    classDef fall fill:#ffebe9,stroke:#cf222e,stroke-width:1px,color:#82071e;
+    classDef christ fill:#dafbe1,stroke:#1a7f37,stroke-width:1px,color:#116329;
+    classDef final fill:#fbefff,stroke:#8250df,stroke-width:1px,color:#512a97;
+
+    class A,B,I,J question;
+    class C,D frame;
+    class E,F creation;
+    class G,H fall;
+    class K,L,M,N,O christ;
+    class P,Q,R final;
+```
+
 ## Divine Restraint Is Not Divine Weakness
 
 The paradox treats God's non-intervention as if it must mean one of two things:
