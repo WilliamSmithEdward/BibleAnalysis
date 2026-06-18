@@ -1229,3 +1229,4 @@ Working implication:
 - Give special attention to Genesis 2-3, Deuteronomy 30, Joshua 24, Job, Isaiah 46, Matthew 23:37, John 18-19, Acts 2, Romans 8-11, 1 Timothy 2:4, 2 Peter 3:9, and Revelation.
 - Study divine self-restraint as a possible expression of love, truth, and freedom rather than as divine weakness or absence.
 - Study how a provisioned free-will zone relates to the user's broader theology of love requiring liberty, free will, uncoerced consent, and real relationship with God.
+- Clarifying answer: the user's assurance rests most deeply in who God is as a person.
