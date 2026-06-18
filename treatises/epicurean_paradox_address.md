@@ -95,7 +95,9 @@ flowchart TB
         Q["If yes<br/>The paradox remains a serious objection;<br/>do not force belief"]
         R["If no<br/>The paradox is not decisive;<br/>consider a wider frame"]
         S["Moral pressure point<br/>If I remain atheist, how do I account<br/>for the weight of<br/>'this should not be'?"]
-        L --> M --> M1 --> N --> N1 --> O --> O1 --> P
+        L --> M --> M1 --> P
+        L --> N --> N1 --> P
+        L --> O --> O1 --> P
         P -->|Yes| Q
         P -->|No| R --> S
     end
