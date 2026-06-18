@@ -1296,3 +1296,18 @@ Working implication:
 - Track how Scripture speaks about completion, perfection, rest, renewal, maturity, and freedom from striving.
 - Give special attention to John 19:30, Romans 6-8, Galatians 3, Galatians 5, Philippians 1:6, Colossians 2:10, Hebrews 4, Hebrews 10, and 2 Peter 1:3.
 - Study how false unfinishedness creates anxiety, self-reliance, works-righteousness, shame, and performance pressure.
+
+## Conviction As Reorientation To Jesus
+
+User answer, summarized:
+
+- When the Holy Spirit convicts a believer, He points them to Jesus Christ and His work on the cross.
+- Conviction points to Jesus' death, burial, and resurrection as the answer and solution to all things.
+- Once a soul is reoriented to the truth, an open line of real-time communication and walking with God through the Holy Spirit can begin or continue.
+
+Working implication:
+
+- Study conviction as reorientation to Christ rather than accusation, condemnation, or self-repair.
+- Track how Scripture connects the Spirit's conviction with truth, the cross, resurrection, repentance, communion, guidance, and walking by the Spirit.
+- Give special attention to John 14-16, Romans 8, 1 Corinthians 15:1-4, Galatians 5, Ephesians 1, Ephesians 4, Hebrews 10, and 1 John 1.
+- Study repentance as restored alignment with reality and restored communion with God, not as striving to make the foundation complete.
