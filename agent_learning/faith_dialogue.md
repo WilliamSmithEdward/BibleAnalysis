@@ -1280,3 +1280,4 @@ Working implication:
 - Study assurance as personal belonging to Jesus, not merely intellectual certainty about Christian propositions.
 - Clarifying answer: being called Jesus' son most directly heals the user's need to be accepted by the world.
 - Clarifying answer: the world offers acceptance, status, wealth, power, and pleasure, but these are temporal and conditional, so they cannot give true life.
+- Clarifying answer: God's acceptance is unconditional without being cheap or shallow because it is entirely based on what Jesus has already done. His finished work is cemented in history, rock solid, and nothing anyone can do or say can change it. It is finished.
