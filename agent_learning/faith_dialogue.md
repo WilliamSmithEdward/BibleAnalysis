@@ -1279,3 +1279,4 @@ Working implication:
 - Give special attention to John 10, John 17:3, Romans 8:14-17, Galatians 4:4-7, Ephesians 1, Philippians 3, 1 John, and Revelation 3:12.
 - Study assurance as personal belonging to Jesus, not merely intellectual certainty about Christian propositions.
 - Clarifying answer: being called Jesus' son most directly heals the user's need to be accepted by the world.
+- Clarifying answer: the world offers acceptance, status, wealth, power, and pleasure, but these are temporal and conditional, so they cannot give true life.
